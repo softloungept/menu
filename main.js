@@ -132,7 +132,7 @@ class Main {
     const screen = document.getElementById("screen");
     screen.innerHTML = "";
     screen.appendChild(this._sectionPages[idx]);
-    window.setTimeout(() => screen.scrollTo(0, 0));
+    window.setTimeout(() => screen.scrollTo(0, 0), 100);
   }
 
   static setLanguage(key) {
