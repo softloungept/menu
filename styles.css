@@ -1,0 +1,170 @@
+:root {
+	--highlight-color: #bd9656;
+	--text-color-lighter: #969c9c;
+	--text-color: #636969;
+	--body-background-color: black;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background-color: var(--body-background-color);
+	font-family: sans-serif;
+	color: var(--text-color);
+}
+
+body {
+	display: flex;
+	flex-flow: column;
+	font-size: 17px;
+	background-image: url("assets/background.jpg");
+	background-size: contain;
+	background-repeat: round;
+}
+
+#header {
+	display: flex;
+	flex-flow: row;
+	text-align: center;
+	padding: 10px;
+	padding-top: env(safe-area-inset-top, 10px);
+	background-color: var(--body-background-color);
+	box-shadow: 0 5px 10px rgb(0 0 0 / 50%);
+	z-index: 1;
+}
+#header img {
+	margin-top: 10px;
+	height: 42px;
+}
+
+#languages {
+	flex: 1;
+    display: flex;
+    flex-flow: column;
+	align-self: center;
+	align-items: end;
+	margin-top: 10px;
+}
+#languages > svg {
+	width: 40px;
+	/* filter: grayscale(1); */
+	border-radius: 4px;
+	padding: 2px;
+	cursor: pointer;
+}
+.selected-language {
+	filter: grayscale(0) !important;
+	cursor: initial;
+	display: none;
+}
+
+#screen {
+	flex: 1;
+	overflow-y: auto;
+}
+
+#navigator {
+	display: flex;
+	padding: 10px 0px;
+	padding-bottom: env(safe-area-inset-bottom, 10px);
+	background-color: var(--body-background-color);
+	box-shadow: 0 -5px 10px rgb(0 0 0 / 50%);
+	z-index: 1;
+}
+
+.section-page-subSection {
+	display: flex;
+	flex-flow: column;
+	padding: 30px 10px 5px 10px;
+}
+.section-page-subSection > name {
+	font-weight: 400;
+	color: var(--highlight-color);
+}
+.section-page-subSection > info {
+	font-size: 0.9em;
+}
+
+.section-page-product {
+	display: flex;
+	flex-flow: row;
+	padding: 5px 10px;
+}
+.section-page-product-name {
+	flex: 1;
+	display: flex;
+	flex-flow: column;
+	padding-right: 5px;
+}
+.section-page-product-name > name {
+	font-weight: 400;
+	color: var(--text-color-lighter);
+}
+.section-page-product-name > name > info {
+	font-size: 0.9em;
+	color: var(--text-color);
+	padding: 0px 5px;
+}
+.section-page-product-name > description {
+	font-size: 0.9em;
+	color: var(--text-color);
+}
+.section-page-product > value {
+	text-align: right;
+	font-size: 0.9em;
+	color: var(--text-color-lighter);
+}
+
+.section-button {
+	flex: 1;
+	margin-bottom: 10px;
+	color: var(--text-color);
+	border: 0;
+	background-color: transparent;
+	cursor: pointer;
+}
+.section-button:hover {
+	color: var(--text-color-lighter);
+}
+.section-button-selected, .section-button-selected:hover {
+	color: var(--highlight-color);
+	cursor: initial;
+}
+.section-button > div {
+	display: flex;
+    flex-flow: column;
+}
+.section-button > div > label {
+	padding-top: 5px;
+}
+
+::-webkit-scrollbar {
+	width: 6pt;
+	height: 6pt;
+	cursor: pointer;
+}
+::-webkit-scrollbar-track {
+	background: #00000022;
+}
+::-webkit-scrollbar-thumb {
+	background: #ffffff11;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #ffffff22;
+}
+::-webkit-scrollbar-corner {
+	background: #00000022;
+}
+
+.show {
+	visibility: visible;
+	opacity: 1;
+	transition: visibility 0s linear 0s, opacity 300ms;
+}
+.hide {
+	visibility: hidden;
+	opacity: 0;
+	display: none;
+	transition: visibility 0s linear 300ms, opacity 300ms;
+}
