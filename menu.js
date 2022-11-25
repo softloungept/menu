@@ -114,12 +114,12 @@ const Menu = [{
       menu: [
         { name: "Papa Figos", info: "(copo/garrafa)", price: "4.5 €/17" },
         { name: "Esteva", info: "(copo/garrafa)", price: "3.5 €/13" },
-        { name: "Duas Quintas", info: "(copo/garrafa)", price: "6 €/22" },
+        { name: "Duas Quintas", info: "(copo/garrafa)", price: "6 €/25" },
     ]},
     {
       subSection: "DOURO BRANCO",
       menu: [
-        { name: "Papa Figos", info: "(copo/garrafa)", price: "4.5 €/15" },
+        { name: "Papa Figos", info: "(copo/garrafa)", price: "4.5 €/17" },
         { name: "Planalto", info: "(copo/garrafa)", price: "3.5 €/12" },
         { name: "Vinha Grande", info: "(copo/garrafa)", price: "5 €/18" },
         { name: "Quinta dos Carvalhais", info: "(copo/garrafa)", price: "4.5 €/16" },
@@ -128,7 +128,7 @@ const Menu = [{
       subSection: "ALENTEJO TINTO",
       menu: [
         { name: "Herdade do Peso", info: "(copo/garrafa)", price: "5 €/17" },
-        { name: "Herdade de Grous", info: "(copo/garrafa)", price: "6 €/22" },
+        { name: "Herdade de Grous", info: "(copo/garrafa)", price: "6 €/23" },
         { name: "Chaminé", info: "(copo/garrafa)", price: "4 €/15" },
     ]},
     {
@@ -349,16 +349,15 @@ const Menu = [{
       subSection: "PARA PARTILHAR",
       menu: [
         { name: "Camarão ao alhinho", info: "(150gr)", price: 13.50 },
+        { name: "Polvo à galega", price: 10.50 },
+        { name: "Amêijoa à bulhão pato", price: 7.50 },
+        { name: "Pasta de atum", price: 4.50 },
         { name: "Queijo de cabra fundido com mel e nozes", price: 9.00 },
         { name: "Asinhas de frango", price: 5.00 },
+        { name: "Ovos mexidos com alheira", price: 7.00 },
         { name: "Pica-Pau vaca", price: 13.00 },
         { name: "Pão de alho", price: 4.00 },
-        { name: "Pasta de atum", price: 4.50 },
-        { name: "Tâmaras com bacon", price: 5.50 },
-        { name: "Tomate com queijo mozarela búfala", price: 6.00 },
-        { name: "Tábua de presunto ibérico", price: 8.00 },
-        { name: "Tábua de 2 queijos", price: 10.00 },
-        { name: "Tábua de 5 queijos", price: 20.00 },
+        { name: "Tábua mista", description: "(queijos, enchidos, presunto)", price: 11.00 },
         { name: "Couvert", description: "(azeitonas, pasta atum, manteiga de alho, pão)", price:  6.00 },
         { name: "Cesto pão", price: 1.50 },
         { name: "Pão Torrado", price: 2.00 },
@@ -366,58 +365,69 @@ const Menu = [{
         { name: "Caracóis", info: "(época)", price: 8.50 },
     ]},
     {
+      subSection: "SALADAS",
+      menu: [
+        { name: "Caesar", description: "(frango, molho caesar, alface, tomate cherry, queijo parmesão)", price:  7.50 },
+        { name: "Búfala", description: "(mozzarella de búfala, tomate)", price:  6.00 },
+    ]},
+    {
       subSection: "CARNE",
       subSectionInfo: "(NOTA: Informamos que a cozinha encerra às 22:30)",
       menu: [
         { name: "Picanha", description: "(arroz, batata frita, feijão preto, farófia)", price:  15.50 },
-        { name: "Bife da vazia", info: "(250gr)", price: 14.50 },
-        { info: "• Opção: molho cervejeiro" },
-        { info: "• Opções de acompanhamento: Risoto cogumelos/Linguine/Batata frita palito" },
-        { name: "Peito de Frango marinado", price: 10.50 },
-        { info: "• Opções de acompanhamento: Risoto cogumelos/Linguine/Batata frita palito" },
-        { name: "Bifana no prato", description: "(fruta, queijo, presunto, tomate, batata frita palito)", price:  10.00 },
+        { name: "Bife à portuguesa", description: "(batata frita à rodela, ovo estrelado)", price:  12.00 },
+        { name: "Bife 3 pimentas", description: "(com esparregado e batata frita)", price:  14.50 },
+        { name: "Secretos em cama de puré de beterraba", price:  12.50 },
+        { name: "Supremo de frango em cama de puré de batata doce", price:  11.50 },
+    ]},
+    {
+      subSection: "PEIXE",
+      subSectionInfo: "(NOTA: Informamos que a cozinha encerra às 22:30)",
+      menu: [
+        { name: "Polvo à lagareiro", description: "(com batata a murro)", price:  18.50 },
+        { name: "Bacalhau confitado", description: "(com puré de batata doce e legumes da época)", price:  13.50 },
+        { name: "Lombo de Salmão com batata noisette e legumes aromatizados", price:  12.00 },
     ]},
     {
       subSection: "PASTA",
       menu: [
-        { name: "Linguine de polvo e camarão", price: 18.90 },
+        { name: "Paccheri com gambas", price: 13.50 },
+        { name: "Vogali com amêijoas", price: 12.50 },
         { name: "Linguine Mediterrâneo", description: "(espargos, tomate cherry, mozarela, bacon, presunto)", price: 11.50 },
         { name: "Penne de frango, espinafres e tomate cherry", price: 9.90 },
-        { name: "Penne de frango com cogumelos", price: 11.50 },
     ]},
     {
       subSection: "RISOTOS",
       menu: [
-        { name: "Risoto de Camarão e limão com manjericão", price: 14.50 },
-        { name: "Risoto de espargos com queijo brie", price: 11.50 },
-        { name: "Risoto de cogumelos", price: 11.50 },
+        { name: "Nero", description: "(camarão e lulas)", price: 16.50 },
+        { name: "Camarão e limão com manjericão", price: 14.50 },
+        { name: "Cogumelos", price: 11.50 },
     ]},
     {
       subSection: "OMELETES",
-      subSectionInfo: "(Acompanhamento: batata frita palito, tomate)",
+      subSectionInfo: "(Acompanhamento: batata frita, tomate)",
       menu: [
-        { name: "Omelete Simples", description: "(cebola, salsa)", price: 6.00 },
-        { name: "Omelete de Queijo ou Fiambre", description: "(cebola, salsa, queijo ou fiambre)", price:  7.00 },
         { name: "Omelete Mista", description: "(cebola, salsa, queijo, fiambre)", price: 8.00 },
-        { name: "Omelete de Presunto", description: "(cebola, salsa, queijo, presunto)", price: 11.00 },
         { name: "Omelete de Frango", description: "(cebola, salsa, queijo, frango)", price: 11.00 },
         { name: "Omelete de Camarão", description: "(cebola, salsa, queijo, camarão)", price: 12.00 },
     ]},
     {
       subSection: "EXTRAS",
       menu: [
+        { name: "Arroz basmati", price: 3.00 },
+        { name: "Esparregado", price: 3.00 },
+        { name: "Batata frita palito", price: 3.00 },
+        { name: "Batata frita pacote", price: 1.00 },
         { name: "Salada mista", price: 1.50 },
         { name: "Ovo estrelado", price: 1.50 },
-        { name: "Batata frita pacote", price: 1.00 },
-        { name: "Batata frita palito", price: 3.00 },
-        { name: "Tremoços", price: 0.50 },
     ]},
     {
       subSection: "SOBREMESAS",
       menu: [
+        { name: "Crepe suzette com calda de chocolate", price: 4.50 },
+        { name: "Brownie com bola de gelado", price: 4.50 },
         { name: "Tiramisù", price: 4.50 },
         { name: "Panna Cotta com calda de frutos vermelhos", price: 4.50 }, 
-        { name: "Salada de frutas", price: 4.50 }, 
     ]},
     {
       subSection: "NO PÃO",
