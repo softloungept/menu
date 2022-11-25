@@ -242,6 +242,7 @@ class Resources {
       "Esparregado": "Creamed spinach",
       "Crepe suzette com calda de chocolate": "Crepe suzette with chocolate sauce",
       "Brownie com bola de gelado": "Brownie with ice cream",
+      "Sopa do dia": "Soup of the day",
     }
   }
 

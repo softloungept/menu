@@ -374,7 +374,7 @@ const Menu = [{
       subSection: "CARNE",
       subSectionInfo: "(NOTA: Informamos que a cozinha encerra às 22:30)",
       menu: [
-        { name: "Picanha", description: "(arroz, batata frita, feijão preto, farófia)", price:  15.50 },
+        { name: "Picanha", description: "(arroz, batata frita, feijão preto, farófia)", price:  16.50 },
         { name: "Bife à portuguesa", description: "(batata frita à rodela, ovo estrelado)", price:  12.00 },
         { name: "Bife 3 pimentas", description: "(com esparregado e batata frita)", price:  14.50 },
         { name: "Secretos em cama de puré de beterraba", price:  12.50 },
@@ -414,6 +414,7 @@ const Menu = [{
     {
       subSection: "EXTRAS",
       menu: [
+        { name: "Sopa do dia", price: 2.00 },
         { name: "Arroz basmati", price: 3.00 },
         { name: "Esparregado", price: 3.00 },
         { name: "Batata frita palito", price: 3.00 },
