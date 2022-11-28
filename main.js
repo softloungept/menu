@@ -57,7 +57,7 @@ class Main {
     icon.innerHTML = section.icon;
 
     const name = document.createElement("label");
-    name.innerHTML = Resources.getString(section.section);
+    name.innerHTML = section.section[Resources.getLanguage()];
 
     const column = document.createElement("div");
     column.appendChild(icon);
@@ -71,6 +71,8 @@ class Main {
   }
 
   static buildSectionPage(section) {
+    const lang = Resources.getLanguage();
+
     const page = document.createElement("div");
     page.classList.add("section-page");
 
@@ -80,12 +82,12 @@ class Main {
       page.appendChild(titleCol);
 
       let title = document.createElement("name");
-      title.innerHTML = Resources.getString(entry.subSection);
+      title.innerHTML = entry.subSection[lang];
       titleCol.appendChild(title);
 
       if (entry.subSectionInfo) {
         let info = document.createElement("info");
-        info.innerHTML = Resources.getString(entry.subSectionInfo);
+        info.innerHTML = entry.subSectionInfo[lang];
         titleCol.appendChild(info);
       }
 
@@ -94,18 +96,18 @@ class Main {
         nameCol.classList.add("section-page-product-name");
 
         let name = document.createElement("name");
-        name.innerHTML = Resources.getString(product.name ?? "");
+        name.innerHTML = product.name[lang] ?? "";
         nameCol.appendChild(name);
 
         if (product.info) {
           let info = document.createElement("info");
-          info.innerHTML = Resources.getString(product.info);
+          info.innerHTML = product.info[lang];
           name.appendChild(info);
         }
 
         if (product.description) {
           let description = document.createElement("description");
-          description.innerHTML = Resources.getString(product.description);
+          description.innerHTML = product.description[lang];
           nameCol.appendChild(description);
         }
 

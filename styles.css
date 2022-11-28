@@ -3,6 +3,7 @@
 	--text-color-lighter: #969c9c;
 	--text-color: #636969;
 	--body-background-color: black;
+	--placeholder-color: #444;
 }
 
 html, body {
@@ -51,6 +52,10 @@ body {
 	/* filter: grayscale(1); */
 	border-radius: 4px;
 	padding: 2px;
+	cursor: pointer;
+}
+#languages > .material-symbols-outlined {
+	color: var(--highlight-color);
 	cursor: pointer;
 }
 .selected-language {
@@ -139,6 +144,71 @@ body {
 	padding-top: 5px;
 }
 
+
+
+.editor-lang-row > lang {
+	width: 30px;
+}
+.editor-input.section-page-product-name {
+	font-size: 1em;
+	font-weight: 400;
+    color: var(--text-color-lighter);
+}
+.editor-input {
+	font-size: 0.9em;
+	color: var(--text-color);
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 0;
+	border-radius: 2px;
+	margin-left: 5px;;
+}
+.editor-product-price {
+	width: 70px;
+	color: var(--text-color-lighter);
+}
+.editor-subSection-name {
+	font-weight: 400;
+	color: var(--highlight-color);
+}
+.editor-buttons {
+	display: flex;
+	flex-flow: column;
+	align-self: end;
+}
+.editor-button {
+	cursor: pointer;
+}
+.editor-button:hover {
+	color: var(--highlight-color);
+}
+
+
+
+.show {
+	visibility: visible;
+	opacity: 1;
+	transition: visibility 0s linear 0s, opacity 300ms;
+}
+.hide {
+	visibility: hidden;
+	opacity: 0;
+	display: none;
+	transition: visibility 0s linear 300ms, opacity 300ms;
+}
+
+row {
+	flex: 1;
+	display: flex;
+	flex-flow: row;
+}
+column {
+	flex: 1;
+	display: flex;
+	flex-flow: column;
+}
+
+
+
 ::-webkit-scrollbar {
 	width: 6pt;
 	height: 6pt;
@@ -157,14 +227,15 @@ body {
 	background: #00000022;
 }
 
-.show {
-	visibility: visible;
-	opacity: 1;
-	transition: visibility 0s linear 0s, opacity 300ms;
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: var(--placeholder-color);
+	opacity: 1; /* Firefox */
 }
-.hide {
-	visibility: hidden;
-	opacity: 0;
-	display: none;
-	transition: visibility 0s linear 300ms, opacity 300ms;
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	color: var(--placeholder-color);
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+	color: var(--placeholder-color);
 }
