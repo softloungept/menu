@@ -181,6 +181,13 @@ body {
 .editor-button:hover {
 	color: var(--highlight-color);
 }
+.editor-addButton {
+	color: var(--text-color-lighter);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 40px;
+}
 
 
 

@@ -6,47 +6,6 @@ class Editor {
   static init() {
     this.buildToolbar();
     this.buildNavigation();
-    //this.convertMenuObj();
-  }
-
-  static convertMenuObj() {
-    Resources.setLanguage("en");
-    for (let section of Menu) {
-      let newSection = {};
-      newSection.section = {};
-      newSection.section.pt = section.section ?? "";
-      newSection.section.en = Resources.getString(section.section) ?? "";
-      newSection.icon = section.icon;
-      newSection.content = [];
-      this._convertedMenu.push(newSection);
-
-      for (let subSection of section.content) {
-        let newSubSection = {};
-        newSubSection.subSection = {};
-        newSubSection.subSection.pt = subSection.subSection ?? "";
-        newSubSection.subSection.en = Resources.getString(subSection.subSection) ?? "";
-        newSubSection.subSectionInfo = {};
-        newSubSection.subSectionInfo.pt = subSection.subSectionInfo ?? "";
-        newSubSection.subSectionInfo.en = Resources.getString(subSection.subSectionInfo) ?? "";
-        newSubSection.menu = [];
-        newSection.content.push(newSubSection);
-
-        for (let entry of subSection.menu) {
-          let newEntry = {};
-          newEntry.name = {};
-          newEntry.name.pt = entry.name ?? "";
-          newEntry.name.en = Resources.getString(entry.name) ?? "";
-          newEntry.info = {};
-          newEntry.info.pt = entry.info ?? "";
-          newEntry.info.en = Resources.getString(entry.info) ?? "";
-          newEntry.description = {};
-          newEntry.description.pt = entry.description ?? "";
-          newEntry.description.en = Resources.getString(entry.description) ?? "";
-          newEntry.price = entry.price;
-          newSubSection.menu.push(newEntry);
-        }
-      }
-    }
   }
 
   static buildToolbar() {
@@ -133,7 +92,23 @@ class Editor {
         productElement.classList.add("section-page-product");
         page.appendChild(productElement);
       }
+
+      let addProductButton = this.buildAddButton( "Adicionar novo produto", () => entry.menu.push({
+        "name": { "pt": "", "en": "" },
+        "info": { "pt": "", "en": "" },
+        "description": { "pt": "", "en": "" },
+        "price": "",
+      }));
+      page.appendChild(addProductButton);
     }
+
+    const addSubSectionButton = this.buildAddButton( "Adicionar nova Secção", () => section.content.push({
+      "subSection": { "pt": "", "en": "" },
+      "subSectionInfo": { "pt": "", "en": "" },
+      "menu": [],
+    }));
+    page.appendChild(addSubSectionButton);
+
     return page;
   }
 
@@ -156,11 +131,11 @@ class Editor {
       let subSectionCol = document.createElement("column");
       langRow.appendChild(subSectionCol);
 
-      let nameInput = this.createInput(subSection.subSection, lang);
+      let nameInput = this.createInput(subSection.subSection, lang, `nome (${lang})`);
       nameInput.classList.add("editor-subSection-name");
       subSectionCol.appendChild(nameInput);
 
-      let infoInput = this.createInput(subSection.subSectionInfo, lang);
+      let infoInput = this.createInput(subSection.subSectionInfo, lang, `informação adicional (${lang})`);
       subSectionCol.appendChild(infoInput);
     }
 
@@ -176,7 +151,7 @@ class Editor {
     const holderCol = document.createElement("column");
     holderRow.appendChild(holderCol);
 
-    const priceInput = this.createInput(product, "price");
+    const priceInput = this.createInput(product, "price", "preço");
     priceInput.classList.add("editor-product-price");
     holderRow.appendChild(priceInput);
 
@@ -195,14 +170,14 @@ class Editor {
       let prodRow = document.createElement("row");
       prodCol.appendChild(prodRow);
 
-      let nameInput = this.createInput(product.name, lang);
+      let nameInput = this.createInput(product.name, lang, `nome (${lang})`);
       nameInput.classList.add("section-page-product-name");
       prodRow.appendChild(nameInput);
 
-      let infoInput = this.createInput(product.info, lang);
+      let infoInput = this.createInput(product.info, lang, `informação extra (${lang})`);
       prodRow.appendChild(infoInput);
 
-      let descriptionInput = this.createInput(product.description, lang);
+      let descriptionInput = this.createInput(product.description, lang, `descrição (${lang})`);
       prodCol.appendChild(descriptionInput);
     }
 
@@ -226,7 +201,7 @@ class Editor {
       moveUpButton.onclick = () => {
         array.splice(idx, 1);
 				array.splice(idx - 1, 0, entry);
-        this.buildNavigation();
+        this.updateMenu();
       };
       buttons.appendChild(moveUpButton);
     }
@@ -238,8 +213,8 @@ class Editor {
       moveDownButton.title = "Mover para baixo";
       moveDownButton.onclick = () => {
         array.splice(idx, 1);
-				array.splice(idx + 1, 0, entry);
-        this.buildNavigation();
+        array.splice(idx + 1, 0, entry);
+        this.updateMenu();
       };
       buttons.appendChild(moveDownButton);
     }
@@ -252,11 +227,37 @@ class Editor {
     deleteButton.onclick = () => {
       if (confirm("Tem a certeza que deseja apagar este elemento?")) {
         array.splice(idx, 1);
-        this.buildNavigation();
+        this.updateMenu();
       }
     };
     buttons.appendChild(deleteButton);
     return buttons;
+  }
+
+  static buildAddButton(text, onClick) {
+    const icon = document.createElement("span");
+    icon.classList.add("material-symbols-outlined");
+    icon.innerHTML = "add";
+
+    const label = document.createElement("span");
+    label.innerHTML = text;
+
+    const addButton = document.createElement("div");
+    addButton.classList.add("editor-button");
+    addButton.classList.add("editor-addButton");
+    addButton.appendChild(icon);
+    addButton.appendChild(label);
+    addButton.onclick = () => {
+      onClick();
+      this.updateMenu();
+    };
+    return addButton;
+  }
+
+  static updateMenu() {
+    const scrollPos = document.getElementById("screen").scrollTop;
+    this.buildNavigation();
+    window.setTimeout(() => document.getElementById("screen").scrollTop = scrollPos, 100);
   }
 
   static createInput(obj, key, placeholder) {
