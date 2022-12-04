@@ -1,4 +1,5 @@
 class Editor {
+  static _currentIdx = 0;
   static _sectionPages;
   static _sectionButtons;
   static _convertedMenu = [];
@@ -57,7 +58,7 @@ class Editor {
       navigator.appendChild(button);
     }
 
-    this._sectionButtons[0].click();
+    this._sectionButtons[this._currentIdx].click();
   }
 
   static buildSectionButton(section, idx) {
@@ -270,6 +271,7 @@ class Editor {
   }
 
   static selectSection(idx) {
+    this._currentIdx = idx;
     for (let button of this._sectionButtons) {
       button.classList.remove("section-button-selected");
     } 
