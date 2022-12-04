@@ -4028,7 +4028,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 9.9
+                        "price": "11"
                     }
                 ]
             },
