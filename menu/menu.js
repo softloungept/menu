@@ -1253,7 +1253,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5 €/18"
+                        "price": "6 €/23"
                     },
                     {
                         "name": {
@@ -1268,7 +1268,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4.5 €/16"
+                        "price": "4.5 €/20"
                     }
                 ]
             },
@@ -1326,6 +1326,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4 €/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Revelado",
+                            "en": "Revelado"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "10 €/35"
+                    },
+                    {
+                        "name": {
+                            "pt": "Trinca Bolotas 2020",
+                            "en": "Trinca Bolotas 2020"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4€/15"
                     }
                 ]
             },
@@ -1395,6 +1425,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5 €/13"
+                    },
+                    {
+                        "name": {
+                            "pt": "Casa Santar Reserva ",
+                            "en": "Casa  Santar Reserva"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "10€/35"
                     }
                 ]
             },
@@ -1566,6 +1611,48 @@ const Menu = [
                             "en": ""
                         },
                         "price": 6
+                    }
+                ]
+            },
+            {
+                "subSection": {
+                    "pt": "LISBOA / OESTE BRANCO",
+                    "en": "LISBON / WEST WHITE"
+                },
+                "subSectionInfo": {
+                    "pt": "",
+                    "en": ""
+                },
+                "menu": [
+                    {
+                        "name": {
+                            "pt": "Fiuza Chardonnay ",
+                            "en": "Fiuza Chardonnay"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4€/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Prova Regia",
+                            "en": "Prova Regia"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4€/15"
                     }
                 ]
             }
