@@ -3594,21 +3594,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Polvo à galega",
-                            "en": "Galician octopus"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 10.5
-                    },
-                    {
-                        "name": {
                             "pt": "Amêijoa à bulhão pato",
                             "en": "'Bulhão pato' clams"
                         },
@@ -3680,7 +3665,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 7
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -3827,7 +3812,7 @@ const Menu = [
                             "pt": "(frango, molho caesar, alface, tomate cherry, queijo parmesão)",
                             "en": "(chicken, caesar sauce, lettuce, cherry tomato, parmesan cheese)"
                         },
-                        "price": 7.5
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -3858,8 +3843,8 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Picanha",
-                            "en": "Picanha"
+                            "pt": "Maminha",
+                            "en": "Maminha"
                         },
                         "info": {
                             "pt": "",
@@ -3869,7 +3854,7 @@ const Menu = [
                             "pt": "(arroz, batata frita, feijão preto, farófia)",
                             "en": "(rice, french fries, black beans, farófia)"
                         },
-                        "price": 16.5
+                        "price": "14.5"
                     },
                     {
                         "name": {
@@ -3884,7 +3869,7 @@ const Menu = [
                             "pt": "(batata frita à rodela, ovo estrelado)",
                             "en": "(potato chips, fried egg)"
                         },
-                        "price": 12
+                        "price": "13"
                     },
                     {
                         "name": {
@@ -3903,18 +3888,18 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Secretos em cama de puré de beterraba",
-                            "en": "'Secretos' on a bed of beet puree"
+                            "pt": "Bife à café",
+                            "en": "Steak with coffee sauce"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(batata frita à rodela)",
+                            "en": "(potato chips)"
                         },
-                        "price": 12.5
+                        "price": "14.5"
                     },
                     {
                         "name": {
@@ -3929,7 +3914,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 11.5
+                        "price": "12.5"
                     }
                 ]
             },
@@ -3945,21 +3930,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Polvo à lagareiro",
-                            "en": "'Lagareiro' octopus"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(com batata a murro)",
-                            "en": "(with mashed potatoes)"
-                        },
-                        "price": 18.5
-                    },
-                    {
-                        "name": {
                             "pt": "Bacalhau confitado",
                             "en": "Confit codfish"
                         },
@@ -3971,12 +3941,12 @@ const Menu = [
                             "pt": "(com puré de batata doce e legumes da época)",
                             "en": "(with mashed sweet potatoes and seasonal vegetables)"
                         },
-                        "price": 13.5
+                        "price": "14.5"
                     },
                     {
                         "name": {
-                            "pt": "Lombo de Salmão com batata noisette e legumes aromatizados",
-                            "en": "Salmon loin with noisette potatoes and flavored vegetables"
+                            "pt": "Lombo de Salmão com esmagada de batata e legumes aromatizados",
+                            "en": "Salmon loin with mashed potato and flavored vegetables"
                         },
                         "info": {
                             "pt": "",
@@ -3986,7 +3956,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 12
+                        "price": "14"
                     }
                 ]
             },
@@ -4248,7 +4218,7 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Batata frita pacote",
+                            "pt": "Chips",
                             "en": "Potato chips"
                         },
                         "info": {
@@ -4305,21 +4275,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Crepe suzette com calda de chocolate",
-                            "en": "Crepe suzette with chocolate sauce"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 4.5
-                    },
-                    {
-                        "name": {
                             "pt": "Brownie com bola de gelado",
                             "en": "Brownie with ice cream"
                         },
@@ -4362,6 +4317,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": 4.5
+                    },
+                    {
+                        "name": {
+                            "pt": "Crumble ",
+                            "en": "Crumble"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Calda de Morango e Bola de Gelado)",
+                            "en": "(Strawberry Sauce and Ice Cream Ball)"
+                        },
+                        "price": "4.5"
                     }
                 ]
             },
