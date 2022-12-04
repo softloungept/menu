@@ -1284,21 +1284,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Herdade do Peso",
-                            "en": "Herdade do Peso"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "5 €/17"
-                    },
-                    {
-                        "name": {
                             "pt": "Herdade de Grous",
                             "en": "Herdade de Grous"
                         },
