@@ -4272,21 +4272,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": 4.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Crumble ",
-                            "en": "Crumble"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(Calda de Morango e Bola de Gelado)",
-                            "en": "(Strawberry Sauce and Ice Cream Ball)"
-                        },
-                        "price": "4.5"
                     }
                 ]
             },
