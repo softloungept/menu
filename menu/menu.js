@@ -4475,7 +4475,7 @@ const Menu = [
                             "pt": "(queijo, fiambre, manteiga e orégãos)",
                             "en": "(cheese, ham, butter and oregano)"
                         },
-                        "price": 5
+                        "price": "6"
                     },
                     {
                         "name": {
