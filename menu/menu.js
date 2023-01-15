@@ -1341,21 +1341,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Borba",
-                            "en": "Borba"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "3 €/11"
-                    },
-                    {
-                        "name": {
                             "pt": "Vinha das lebres",
                             "en": "Vinha das lebres"
                         },
