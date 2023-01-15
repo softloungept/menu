@@ -2246,7 +2246,7 @@ const Menu = [
                             "pt": "(pepino, hortelã)",
                             "en": "(cucumber, mint)"
                         },
-                        "price": 8.5
+                        "price": "10"
                     },
                     {
                         "name": {
