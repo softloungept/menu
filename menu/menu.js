@@ -1778,7 +1778,7 @@ const Menu = [
                             "pt": "(tequila, cointreau, sumo limão, sal no copo)",
                             "en": "(tequila, cointreau, lemon juice, salt in the glass)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
