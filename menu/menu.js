@@ -4430,7 +4430,7 @@ const Menu = [
                             "pt": "(frango, maionaise, tomate, queijo, manteiga e orégãos)",
                             "en": "(chicken, mayonnaise, tomato, cheese, butter and oregano)"
                         },
-                        "price": 7
+                        "price": "8"
                     },
                     {
                         "name": {
