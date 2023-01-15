@@ -4113,21 +4113,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Sopa do dia",
-                            "en": "Soup of the day"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2
-                    },
-                    {
-                        "name": {
                             "pt": "Arroz basmati",
                             "en": "Basmati rice"
                         },
