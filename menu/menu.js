@@ -2321,7 +2321,7 @@ const Menu = [
                             "pt": "(maçã)",
                             "en": "(apple)"
                         },
-                        "price": 9
+                        "price": "11"
                     },
                     {
                         "name": {
