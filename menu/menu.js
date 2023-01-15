@@ -3972,21 +3972,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Vogali com amêijoas",
-                            "en": "Vogali with clams"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 12.5
-                    },
-                    {
-                        "name": {
                             "pt": "Linguine Mediterrâneo",
                             "en": "Mediterranean Linguine"
                         },
