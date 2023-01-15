@@ -1299,21 +1299,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Chaminé",
-                            "en": "Chaminé"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4 €/15"
-                    },
-                    {
-                        "name": {
                             "pt": "Revelado",
                             "en": "Revelado"
                         },
