@@ -3957,18 +3957,18 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Paccheri com gambas",
-                            "en": "Prawn paccheri"
+                            "pt": "Linguine nero  al mare ",
+                            "en": "Linguine nero al mare"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(camarao,ameijoa,tomate cherry)",
+                            "en": "(shrimp,clams,cherry tomato)"
                         },
-                        "price": 13.5
+                        "price": "15.5"
                     },
                     {
                         "name": {
