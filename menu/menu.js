@@ -4419,21 +4419,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Tosta de Atum",
-                            "en": "Tuna toast"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(atum, maionaise, queijo, manteiga e orégãos)",
-                            "en": "(tuna, mayonnaise, cheese, butter and oregano)"
-                        },
-                        "price": 7
-                    },
-                    {
-                        "name": {
                             "pt": "Tosta de Frango",
                             "en": "Chicken toast"
                         },
@@ -4446,6 +4431,21 @@ const Menu = [
                             "en": "(chicken, mayonnaise, tomato, cheese, butter and oregano)"
                         },
                         "price": 7
+                    },
+                    {
+                        "name": {
+                            "pt": "Tosta de Atum",
+                            "en": "Tuna toast"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(atum, maionaise, queijo, manteiga e orégãos)",
+                            "en": "(tuna, mayonnaise, cheese, butter and oregano)"
+                        },
+                        "price": "8"
                     },
                     {
                         "name": {
