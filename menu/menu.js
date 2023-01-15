@@ -4460,7 +4460,7 @@ const Menu = [
                             "pt": "(molho pesto, presunto, tomate, queijo, manteiga e orégãos)",
                             "en": "(pesto sauce, prosciutto ham, tomato, cheese, butter and oregano)"
                         },
-                        "price": 6.5
+                        "price": "7.5"
                     },
                     {
                         "name": {
