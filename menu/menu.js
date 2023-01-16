@@ -1823,7 +1823,7 @@ const Menu = [
                             "pt": "(licor de café, vodka, café expresso)",
                             "en": "(coffee liqueur, vodka, espresso)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
