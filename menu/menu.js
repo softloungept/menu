@@ -3215,7 +3215,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 7
+                        "price": "8"
                     },
                     {
                         "name": {
