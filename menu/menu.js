@@ -1838,7 +1838,7 @@ const Menu = [
                             "pt": "(vodka, licor de morango, sumo de laranja)",
                             "en": "(vodka, strawberry liqueur, orange juice)"
                         },
-                        "price": 9.5
+                        "price": "10.5"
                     },
                     {
                         "name": {
