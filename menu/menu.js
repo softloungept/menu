@@ -1928,7 +1928,7 @@ const Menu = [
                             "pt": "(vodka, tequila, rum, triple sec, gin, sumo limão, cola)",
                             "en": "(vodka, tequila, rum, triple sec, gin, lemon juice, cola)"
                         },
-                        "price": 10
+                        "price": "11"
                     }
                 ]
             },
