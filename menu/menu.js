@@ -1883,7 +1883,7 @@ const Menu = [
                             "pt": "(gin, campari, vermute tinto)",
                             "en": "(gin, campari, red vermouth)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
