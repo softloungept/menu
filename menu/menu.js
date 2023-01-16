@@ -590,7 +590,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 1.5
+                        "price": "2"
                     },
                     {
                         "name": {
