@@ -2160,21 +2160,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Caorunn",
-                            "en": "Caorunn"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(maçã)",
-                            "en": "(apple)"
-                        },
-                        "price": 8
-                    },
-                    {
-                        "name": {
                             "pt": "Gordons",
                             "en": "Gordons"
                         },
