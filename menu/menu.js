@@ -1748,7 +1748,7 @@ const Menu = [
                             "pt": "(rum especial, sumo limão, hortelã, água c/gás, açúcar)",
                             "en": "(special rum, lemon juice, mint, sparkling water, sugar)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -1970,7 +1970,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "6.5"
                     }
                 ]
             },
