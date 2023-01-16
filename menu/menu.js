@@ -2355,21 +2355,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Saffron",
-                            "en": "Saffron"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(café, laranja)",
-                            "en": "(coffee, orange)"
-                        },
-                        "price": 9.5
-                    },
-                    {
-                        "name": {
                             "pt": "Jodhpur Reserve",
                             "en": "Jodhpur Reserve"
                         },
