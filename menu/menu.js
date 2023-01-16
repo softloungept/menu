@@ -1353,6 +1353,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5 €/13"
+                    },
+                    {
+                        "name": {
+                            "pt": "Implicit",
+                            "en": "Implicit"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4/15"
                     }
                 ]
             },
