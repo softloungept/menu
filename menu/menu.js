@@ -1868,7 +1868,7 @@ const Menu = [
                             "pt": "(vermute seco, gin London dry)",
                             "en": "(dry vermouth, gin London dry)"
                         },
-                        "price": 6
+                        "price": "7"
                     },
                     {
                         "name": {
