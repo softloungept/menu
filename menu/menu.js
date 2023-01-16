@@ -1410,6 +1410,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": "10€/35"
+                    },
+                    {
+                        "name": {
+                            "pt": "Quinta dos Carvalhais",
+                            "en": "Quinta dos Carvalhais"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "7/26"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
                     }
                 ]
             },
