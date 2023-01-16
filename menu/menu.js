@@ -1793,7 +1793,7 @@ const Menu = [
                             "pt": "(tequila, sumo laranja, groselha)",
                             "en": "(tequila, orange juice, blackcurrant)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
