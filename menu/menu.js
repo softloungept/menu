@@ -651,6 +651,21 @@ const Menu = [
                             "en": "(white chocolate; mint chocolate; caramel chocolate; apple-pine nuts; hazelnut chocolate; hazelnut white)"
                         },
                         "price": 4.5
+                    },
+                    {
+                        "name": {
+                            "pt": "Café Com Refeição",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "1"
                     }
                 ]
             },
