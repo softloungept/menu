@@ -2400,21 +2400,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Macronesian",
-                            "en": "Macronesian"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(gengibre, limão)",
-                            "en": "(ginger, lemon)"
-                        },
-                        "price": 9.5
-                    },
-                    {
-                        "name": {
                             "pt": "Mombasa Club",
                             "en": "Mombasa Club"
                         },
