@@ -1535,7 +1535,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5.5
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1565,7 +1565,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "7"
                     }
                 ]
             },
