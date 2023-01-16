@@ -1853,7 +1853,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
