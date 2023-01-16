@@ -1778,7 +1778,7 @@ const Menu = [
                             "pt": "(rum, sumo de ananás, batida de côco)",
                             "en": "(rum, pineapple juice, coconut smoothie)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
