@@ -1485,21 +1485,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Casal Garcia",
-                            "en": "Casal Garcia"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 13
-                    },
-                    {
-                        "name": {
                             "pt": "Muralhas",
                             "en": "Muralhas"
                         },
