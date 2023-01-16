@@ -1898,7 +1898,7 @@ const Menu = [
                             "pt": "(vodka, cointreau, sumo de arando, sumo de lima)",
                             "en": "(vodka, cointreau, cranberry juice, lime juice)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
