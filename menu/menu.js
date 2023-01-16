@@ -1808,7 +1808,7 @@ const Menu = [
                             "pt": "(vodka, blue coracão, sumo de limão)",
                             "en": "(vodka, blue coracão, lemon juice)"
                         },
-                        "price": 8.5
+                        "price": "9.5"
                     },
                     {
                         "name": {
