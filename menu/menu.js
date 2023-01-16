@@ -1326,6 +1326,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Implicit",
+                            "en": "Implicit"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4/15"
                     }
                 ]
             },
