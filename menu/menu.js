@@ -3911,7 +3911,7 @@ const Menu = [
                             "pt": "(com puré de batata doce e legumes da época)",
                             "en": "(with mashed sweet potatoes and seasonal vegetables)"
                         },
-                        "price": "14.5"
+                        "price": "20.5"
                     },
                     {
                         "name": {
