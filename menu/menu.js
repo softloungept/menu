@@ -3279,21 +3279,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Bulleit Bourbon",
-                            "en": "Bulleit Bourbon"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 9
-                    },
-                    {
-                        "name": {
                             "pt": "Nikka from the Barrel",
                             "en": "Nikka from the Barrel"
                         },
