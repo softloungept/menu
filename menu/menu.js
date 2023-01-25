@@ -2886,6 +2886,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": 4
+                    },
+                    {
+                        "name": {
+                            "pt": "Moscatel Alambre Roxo ",
+                            "en": "Moscatel Alambre Roxo "
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6"
                     }
                 ]
             },
