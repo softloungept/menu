@@ -3471,6 +3471,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": 35
+                    },
+                    {
+                        "name": {
+                            "pt": "Woodford Reserve Bourbon",
+                            "en": "Woodford Reserve Bourbon"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "13"
                     }
                 ]
             },
