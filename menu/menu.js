@@ -2916,8 +2916,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Ferreirinha Velha",
-                            "en": "Ferreirinha Velha"
+                            "pt": "Adamus Velhissima 20 Anos",
+                            "en": "Adamus Velhissima 20 Anos"
                         },
                         "info": {
                             "pt": "",
@@ -2927,7 +2927,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 15
+                        "price": "20"
                     }
                 ]
             },
