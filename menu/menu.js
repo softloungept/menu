@@ -2517,6 +2517,21 @@ const Menu = [
                             "en": "(ginger, lemon)"
                         },
                         "price": 9
+                    },
+                    {
+                        "name": {
+                            "pt": "Adamus",
+                            "en": "Adamus"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(limão,gengibre)",
+                            "en": "(ginger, lemon)"
+                        },
+                        "price": "14"
                     }
                 ]
             },
