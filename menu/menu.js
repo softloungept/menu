@@ -1204,14 +1204,14 @@ const Menu = [
                             "en": "Duas Quintas"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "9 €/32"
+                        "price": "32 €"
                     }
                 ]
             },
