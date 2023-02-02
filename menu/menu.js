@@ -1303,14 +1303,14 @@ const Menu = [
                             "en": "Herdade de Grous"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8 €/28"
+                        "price": "28 €"
                     },
                     {
                         "name": {
@@ -1318,14 +1318,14 @@ const Menu = [
                             "en": "Revelado"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "10 €/32"
+                        "price": "32 €"
                     },
                     {
                         "name": {
@@ -1439,7 +1439,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "10€/33"
+                        "price": "33 €"
                     },
                     {
                         "name": {
