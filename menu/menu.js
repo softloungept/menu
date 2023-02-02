@@ -1614,8 +1614,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Offley 10A",
-                            "en": "Offley 10A"
+                            "pt": "Offley LBV 2017",
+                            "en": "Offley LBV 2017"
                         },
                         "info": {
                             "pt": "",
@@ -1625,7 +1625,22 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
+                    },
+                    {
+                        "name": {
+                            "pt": "Sandeman 20 anos",
+                            "en": "Sandeman 20 Years"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "13.5"
                     }
                 ]
             },
