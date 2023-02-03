@@ -1212,6 +1212,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "32 €"
+                    },
+                    {
+                        "name": {
+                            "pt": "Vinha Grande ",
+                            "en": "Vinha Grande"
+                        },
+                        "info": {
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "27 €"
                     }
                 ]
             },
@@ -1261,14 +1276,14 @@ const Menu = [
                             "en": "Vinha Grande"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7 €/27"
+                        "price": "27 €"
                     },
                     {
                         "name": {
