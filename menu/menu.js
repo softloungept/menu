@@ -1170,36 +1170,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Papa Figos",
-                            "en": "Papa Figos"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4.5 €/17"
-                    },
-                    {
-                        "name": {
-                            "pt": "Esteva",
-                            "en": "Esteva"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "3.5 €/13"
-                    },
-                    {
-                        "name": {
                             "pt": "Duas Quintas",
                             "en": "Duas Quintas"
                         },
@@ -1371,6 +1341,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "EA Cartuxa",
+                            "en": "EA Cartuxa"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "5€/17"
                     }
                 ]
             },
@@ -1473,8 +1458,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "Mélange á 3",
+                            "en": "Mélange á 3"
                         },
                         "info": {
                             "pt": "",
@@ -1484,7 +1469,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": ""
+                        "price": "4€/15"
                     }
                 ]
             },
