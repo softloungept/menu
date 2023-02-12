@@ -1685,6 +1685,33 @@ const Menu = [
                         "price": "4€/15"
                     }
                 ]
+            },
+            {
+                "subSection": {
+                    "pt": "PENÌNSULA DE SETÙBAL TINTO",
+                    "en": "PENÌNSULA DE SETÙBAL RED"
+                },
+                "subSectionInfo": {
+                    "pt": "",
+                    "en": ""
+                },
+                "menu": [
+                    {
+                        "name": {
+                            "pt": "Ermelinda de Freitas Syrah Reserva",
+                            "en": "Ermelinda de Freitas Syrah Reserva"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "7€/22"
+                    }
+                ]
             }
         ]
     },
