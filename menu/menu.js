@@ -1386,21 +1386,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/16"
-                    },
-                    {
-                        "name": {
-                            "pt": "Mélange a 3",
-                            "en": "Mélange a 3"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/16"
                     }
                 ]
             },
