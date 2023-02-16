@@ -1181,7 +1181,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "32 €"
+                        "price": "32€"
                     },
                     {
                         "name": {
@@ -1196,7 +1196,37 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "27 €"
+                        "price": "27€"
+                    },
+                    {
+                        "name": {
+                            "pt": "Papa Figos",
+                            "en": "Papa Figos"
+                        },
+                        "info": {
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4.5€/17"
+                    },
+                    {
+                        "name": {
+                            "pt": "Esteva",
+                            "en": "Esteva"
+                        },
+                        "info": {
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "3.5€/13.5"
                     }
                 ]
             },
@@ -1223,7 +1253,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4.5 €/17"
+                        "price": "4.5€/17"
                     },
                     {
                         "name": {
@@ -1238,7 +1268,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5 €/12"
+                        "price": "3.5€/13"
                     },
                     {
                         "name": {
@@ -1253,7 +1283,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "27 €"
+                        "price": "27€"
                     },
                     {
                         "name": {
@@ -1268,7 +1298,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7 €/26"
+                        "price": "7€/26"
                     }
                 ]
             },
@@ -1295,7 +1325,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "28 €"
+                        "price": "28€"
                     },
                     {
                         "name": {
@@ -1310,7 +1340,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "32 €"
+                        "price": "32€"
                     },
                     {
                         "name": {
@@ -1348,14 +1378,29 @@ const Menu = [
                             "en": "EA Cartuxa"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5€/17"
+                        "price": "4€/16"
+                    },
+                    {
+                        "name": {
+                            "pt": "Mélange a 3",
+                            "en": "Mélange a 3"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4€/16"
                     }
                 ]
             },
@@ -1424,7 +1469,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5 €/13"
+                        "price": "3.5€/13"
                     },
                     {
                         "name": {
@@ -1439,7 +1484,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "33 €"
+                        "price": "33€"
                     },
                     {
                         "name": {
@@ -1496,7 +1541,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 16
+                        "price": "16€"
                     },
                     {
                         "name": {
@@ -1511,7 +1556,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 15
+                        "price": "15€"
                     }
                 ]
             },
@@ -1538,7 +1583,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 12
+                        "price": "12€"
                     },
                     {
                         "name": {
@@ -1553,7 +1598,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 16
+                        "price": "16€"
                     }
                 ]
             },
@@ -1580,7 +1625,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "4€"
                     },
                     {
                         "name": {
@@ -1595,7 +1640,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "6.5€"
                     },
                     {
                         "name": {
@@ -1610,7 +1655,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "6.5€"
                     },
                     {
                         "name": {
@@ -1625,7 +1670,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "8€"
                     },
                     {
                         "name": {
@@ -1640,7 +1685,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13.5"
+                        "price": "13.5€"
                     }
                 ]
             },
@@ -1656,7 +1701,7 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Fiuza Chardonnay ",
+                            "pt": "Fiuza Chardonnay",
                             "en": "Fiuza Chardonnay"
                         },
                         "info": {
@@ -1673,6 +1718,21 @@ const Menu = [
                         "name": {
                             "pt": "Prova Regia",
                             "en": "Prova Regia"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4€/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Fiuza sauvignon Blanc",
+                            "en": "Fiuza sauvignon Blanc"
                         },
                         "info": {
                             "pt": "(copo/garrafa)",
@@ -1709,7 +1769,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7€/22"
+                        "price": "6.5€/24"
                     }
                 ]
             }
