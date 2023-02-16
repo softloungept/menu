@@ -4404,36 +4404,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Prego em Bolo do Caco",
-                            "en": "Beef steak with 'Bolo do Caco' bread"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 8
-                    },
-                    {
-                        "name": {
-                            "pt": "Prego especial em Bolo do caco",
-                            "en": "Special beef steak with 'Bolo do caco' bread"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 9
-                    },
-                    {
-                        "name": {
                             "pt": "Prego",
                             "en": "Beef steak sandwich"
                         },
