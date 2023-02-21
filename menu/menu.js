@@ -4017,21 +4017,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Bacalhau confitado",
-                            "en": "Confit codfish"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(com puré de batata doce e legumes da época)",
-                            "en": "(with mashed sweet potatoes and seasonal vegetables)"
-                        },
-                        "price": "20.5"
-                    },
-                    {
-                        "name": {
                             "pt": "Lombo de Salmão com esmagada de batata e legumes aromatizados",
                             "en": "Salmon loin with mashed potato and flavored vegetables"
                         },
