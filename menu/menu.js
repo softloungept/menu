@@ -1014,21 +1014,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Budvar",
-                            "en": "Budvar"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 3
-                    },
-                    {
-                        "name": {
                             "pt": "Peroni Nastro",
                             "en": "Peroni Nastro"
                         },
@@ -1044,36 +1029,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "1906 Reserva Especial",
-                            "en": "1906 Reserva Especial"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 3
-                    },
-                    {
-                        "name": {
-                            "pt": "Stella ARTOIS",
-                            "en": "Stella ARTOIS"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 5
-                    },
-                    {
-                        "name": {
                             "pt": "Nortada",
                             "en": "Nortada"
                         },
@@ -1086,66 +1041,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": 3.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Estrella GALICIA",
-                            "en": "Estrella GALICIA"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2
-                    },
-                    {
-                        "name": {
-                            "pt": "Oharas STOUT",
-                            "en": "Oharas STOUT"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 4.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Oharas IPA",
-                            "en": "Oharas IPA"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 4.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Fullers",
-                            "en": "Fullers"
-                        },
-                        "info": {
-                            "pt": "(0.50L)",
-                            "en": "(0.50L)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 5
                     }
                 ]
             }
@@ -1484,7 +1379,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7€/26"
+                        "price": "26€"
                     },
                     {
                         "name": {
@@ -1754,7 +1649,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5€/24"
+                        "price": "24€"
                     }
                 ]
             }
