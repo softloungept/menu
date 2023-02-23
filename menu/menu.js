@@ -1076,7 +1076,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "32€"
+                        "price": "32"
                     },
                     {
                         "name": {
@@ -1091,7 +1091,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "27€"
+                        "price": "27"
                     },
                     {
                         "name": {
@@ -1178,7 +1178,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "27€"
+                        "price": "27"
                     },
                     {
                         "name": {
@@ -1220,7 +1220,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "28€"
+                        "price": "28"
                     },
                     {
                         "name": {
@@ -1235,7 +1235,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "32€"
+                        "price": "32"
                     },
                     {
                         "name": {
@@ -1364,7 +1364,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "33€"
+                        "price": "33"
                     },
                     {
                         "name": {
@@ -1379,7 +1379,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "26€"
+                        "price": "26"
                     },
                     {
                         "name": {
@@ -1421,7 +1421,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16€"
+                        "price": "16"
                     },
                     {
                         "name": {
@@ -1436,7 +1436,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "15€"
+                        "price": "15"
                     }
                 ]
             },
@@ -1463,7 +1463,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "12€"
+                        "price": "12"
                     },
                     {
                         "name": {
@@ -1478,7 +1478,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16€"
+                        "price": "16"
                     }
                 ]
             },
@@ -1505,7 +1505,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€"
+                        "price": "4"
                     },
                     {
                         "name": {
@@ -1520,7 +1520,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5€"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1535,7 +1535,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5€"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1550,7 +1550,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8€"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1565,7 +1565,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13.5€"
+                        "price": "13.5"
                     }
                 ]
             },
@@ -1649,7 +1649,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "24€"
+                        "price": "24"
                     }
                 ]
             }
@@ -3182,7 +3182,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5€"
+                        "price": "5.5"
                     },
                     {
                         "name": {
@@ -3197,7 +3197,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5€"
+                        "price": "5.5"
                     },
                     {
                         "name": {
@@ -3212,7 +3212,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6€"
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -3227,7 +3227,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5€"
+                        "price": "5.5"
                     },
                     {
                         "name": {
@@ -3242,7 +3242,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5€"
+                        "price": "5.5"
                     },
                     {
                         "name": {
@@ -3257,7 +3257,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5€"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -3272,7 +3272,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5€"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -3287,7 +3287,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8€"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -3302,7 +3302,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16€"
+                        "price": "18"
                     },
                     {
                         "name": {
@@ -3317,7 +3317,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "10€"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -3332,7 +3332,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "11€"
+                        "price": "11"
                     },
                     {
                         "name": {
@@ -3347,7 +3347,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "12€"
+                        "price": "12"
                     },
                     {
                         "name": {
@@ -3362,7 +3362,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "15€"
+                        "price": "15"
                     },
                     {
                         "name": {
@@ -3377,7 +3377,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "15€"
+                        "price": "15"
                     },
                     {
                         "name": {
@@ -3392,22 +3392,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16€"
-                    },
-                    {
-                        "name": {
-                            "pt": "Chivas Regal 18A",
-                            "en": "Chivas Regal 18A"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "20€"
+                        "price": "16"
                     },
                     {
                         "name": {
@@ -3422,7 +3407,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "60€"
+                        "price": "60"
                     },
                     {
                         "name": {
@@ -3437,7 +3422,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "35€"
+                        "price": "35"
                     },
                     {
                         "name": {
@@ -3452,7 +3437,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13€"
+                        "price": "13"
                     },
                     {
                         "name": {
@@ -3467,7 +3452,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16€"
+                        "price": "16"
                     },
                     {
                         "name": {
@@ -3482,7 +3467,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "18€"
+                        "price": "18"
                     },
                     {
                         "name": {
@@ -3497,7 +3482,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "14€"
+                        "price": "14"
                     },
                     {
                         "name": {
@@ -3512,7 +3497,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13€"
+                        "price": "13"
                     },
                     {
                         "name": {
@@ -3527,7 +3512,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "9€"
+                        "price": "9"
                     }
                 ]
             },
