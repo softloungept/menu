@@ -3182,7 +3182,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5"
+                        "price": "5.5€"
                     },
                     {
                         "name": {
@@ -3197,7 +3197,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5"
+                        "price": "5.5€"
                     },
                     {
                         "name": {
@@ -3212,7 +3212,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "6€"
                     },
                     {
                         "name": {
@@ -3227,7 +3227,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5.5
+                        "price": "5.5€"
                     },
                     {
                         "name": {
@@ -3242,7 +3242,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5.5
+                        "price": "5.5€"
                     },
                     {
                         "name": {
@@ -3257,7 +3257,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "6.5€"
                     },
                     {
                         "name": {
@@ -3272,7 +3272,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "6.5€"
                     },
                     {
                         "name": {
@@ -3287,7 +3287,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "8€"
                     },
                     {
                         "name": {
@@ -3302,7 +3302,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 16
+                        "price": "16€"
                     },
                     {
                         "name": {
@@ -3317,7 +3317,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 9
+                        "price": "10€"
                     },
                     {
                         "name": {
@@ -3332,22 +3332,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 10
-                    },
-                    {
-                        "name": {
-                            "pt": "Cutty Sark 15A",
-                            "en": "Cutty Sark 15A"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 11
+                        "price": "11€"
                     },
                     {
                         "name": {
@@ -3362,7 +3347,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 11
+                        "price": "12€"
                     },
                     {
                         "name": {
@@ -3377,7 +3362,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 13
+                        "price": "15€"
                     },
                     {
                         "name": {
@@ -3392,7 +3377,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 14
+                        "price": "15€"
                     },
                     {
                         "name": {
@@ -3407,22 +3392,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 16
-                    },
-                    {
-                        "name": {
-                            "pt": "Glenlivet",
-                            "en": "Glenlivet"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 12
+                        "price": "16€"
                     },
                     {
                         "name": {
@@ -3437,7 +3407,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 20
+                        "price": "20€"
                     },
                     {
                         "name": {
@@ -3452,7 +3422,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 60
+                        "price": "60€"
                     },
                     {
                         "name": {
@@ -3467,7 +3437,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 35
+                        "price": "35€"
                     },
                     {
                         "name": {
@@ -3482,7 +3452,82 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13"
+                        "price": "13€"
+                    },
+                    {
+                        "name": {
+                            "pt": "Laphroaig 10 anos",
+                            "en": "Laphroaig 10 anos"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "16€"
+                    },
+                    {
+                        "name": {
+                            "pt": "Ardbeg Ten",
+                            "en": "Ardbeg Ten"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "18€"
+                    },
+                    {
+                        "name": {
+                            "pt": "Aberfeldy 12 Anos",
+                            "en": "Aberfeldy 12 Anos"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "14€"
+                    },
+                    {
+                        "name": {
+                            "pt": "Talisker 10 Anos",
+                            "en": "Talisker 10 Anos"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "13€"
+                    },
+                    {
+                        "name": {
+                            "pt": "Monkey Shoulder",
+                            "en": "Monkey Shoulder"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "9€"
                     }
                 ]
             },
