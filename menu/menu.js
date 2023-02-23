@@ -3864,7 +3864,7 @@ const Menu = [
                     "en": "MEAT"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: Informamos que a cozinha encerra às 22:30)",
+                    "pt": "(NOTA: (NOTA: Informamos que a cozinha de Segunda á sábado encerra às 22:30 e aos domingos ás 19.00)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
@@ -3942,6 +3942,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "12.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
                     }
                 ]
             },
@@ -3951,7 +3966,7 @@ const Menu = [
                     "en": "FISH"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: Informamos que a cozinha encerra às 22:30)",
+                    "pt": "(NOTA: Informamos que a cozinha de Segunda á sábado encerra às 22:30 e aos domingos ás 19.00)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
