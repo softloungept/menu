@@ -3381,8 +3381,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Lagavulin",
-                            "en": "Lagavulin"
+                            "pt": "Lagavulin 16 Anos",
+                            "en": "Lagavulin 16 Anos"
                         },
                         "info": {
                             "pt": "",
@@ -3513,6 +3513,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "9"
+                    },
+                    {
+                        "name": {
+                            "pt": "Cardhu 12 Anos",
+                            "en": "Cardhu 12 Anos"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "13"
                     }
                 ]
             },
@@ -3849,7 +3864,7 @@ const Menu = [
                     "en": "MEAT"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: (NOTA: Informamos que a cozinha de Segunda á sábado encerra às 22:30 e aos domingos ás 19.00)",
+                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 19:00)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
@@ -3951,7 +3966,7 @@ const Menu = [
                     "en": "FISH"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: Informamos que a cozinha de Segunda á sábado encerra às 22:30 e aos domingos ás 19.00)",
+                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 19:00)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
