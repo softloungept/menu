@@ -1357,8 +1357,8 @@ const Menu = [
                             "en": "Casa  Santar Reserva"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1372,8 +1372,8 @@ const Menu = [
                             "en": "Quinta dos Carvalhais"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
