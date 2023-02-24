@@ -1106,7 +1106,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4.5€/17"
+                        "price": "5€/18"
                     },
                     {
                         "name": {
@@ -2348,7 +2348,7 @@ const Menu = [
                             "pt": "(morango, amora)",
                             "en": "(strawberry, blackberry)"
                         },
-                        "price": 10.5
+                        "price": "12.5"
                     },
                     {
                         "name": {
@@ -4517,7 +4517,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5.5
+                        "price": "6"
                     },
                     {
                         "name": {
