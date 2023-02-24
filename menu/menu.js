@@ -3864,7 +3864,7 @@ const Menu = [
                     "en": "MEAT"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 19:00)",
+                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 18:30)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
@@ -3966,14 +3966,14 @@ const Menu = [
                     "en": "FISH"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 19:00)",
+                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 18:30)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
                     {
                         "name": {
-                            "pt": "Lombo de Salmão com esmagada de batata e legumes aromatizados",
-                            "en": "Salmon loin with mashed potato and flavored vegetables"
+                            "pt": "Lombo de Salmão com puré batata doce e legumes aromatizados",
+                            "en": "Salmon loin with mashed sweet potato and flavored vegetables"
                         },
                         "info": {
                             "pt": "",
