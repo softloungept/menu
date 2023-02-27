@@ -3984,6 +3984,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "15.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Lombo de Garoupa com arroz nero e legumes aromatizados",
+                            "en": "Grouper loin with black rice and flavored vegetables"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "19.5"
                     }
                 ]
             },
