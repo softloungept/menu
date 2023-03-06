@@ -44,7 +44,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "6.5"
                     },
                     {
                         "name": {
