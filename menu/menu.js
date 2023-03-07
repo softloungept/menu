@@ -44,7 +44,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -104,7 +104,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -4604,7 +4604,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "3"
                     },
                     {
                         "name": {
