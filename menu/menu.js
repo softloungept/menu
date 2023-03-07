@@ -3945,6 +3945,21 @@ const Menu = [
                     },
                     {
                         "name": {
+                            "pt": "Picanha",
+                            "en": "Picanha"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(arroz, batata frita, feijão preto, farófia)",
+                            "en": "(rice, french fries, black beans, farófia)"
+                        },
+                        "price": "16.5"
+                    },
+                    {
+                        "name": {
                             "pt": "",
                             "en": ""
                         },
