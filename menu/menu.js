@@ -803,7 +803,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2
+                        "price": "2.5"
                     },
                     {
                         "name": {
