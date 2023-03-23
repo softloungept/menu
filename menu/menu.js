@@ -1014,8 +1014,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Peroni Nastro",
-                            "en": "Peroni Nastro"
+                            "pt": "1927 IPA",
+                            "en": "1927 Ipa"
                         },
                         "info": {
                             "pt": "",
@@ -1025,12 +1025,12 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "4.5"
                     },
                     {
                         "name": {
-                            "pt": "Nortada",
-                            "en": "Nortada"
+                            "pt": "Carlsberg Pilsner",
+                            "en": "Carlsberg Pilsner"
                         },
                         "info": {
                             "pt": "",
@@ -1040,7 +1040,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 3.5
+                        "price": "2.5"
                     }
                 ]
             }
