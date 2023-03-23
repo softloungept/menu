@@ -3651,8 +3651,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Queijo de cabra fundido com mel e nozes",
-                            "en": "Goat cheese melted with honey and walnuts"
+                            "pt": "Queijo de ovelha fundido com mel e nozes",
+                            "en": "Sheep cheese melted with honey and walnuts"
                         },
                         "info": {
                             "pt": "",
