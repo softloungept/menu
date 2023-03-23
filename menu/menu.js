@@ -647,8 +647,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(chocolate branco; chocolate menta; chocolate caramelo; chocolate maçã-pinhões; chocolate avelã; branco avelã)",
-                            "en": "(white chocolate; mint chocolate; caramel chocolate; apple-pine nuts; hazelnut chocolate; hazelnut white)"
+                            "pt": "(chocolate branco; chocolate menta; chocolate caramelo; chocolate avelã)",
+                            "en": "(white chocolate; mint chocolate; caramel chocolate; hazelnut chocolate)"
                         },
                         "price": 4.5
                     },
