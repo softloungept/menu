@@ -3984,38 +3984,7 @@ const Menu = [
                     "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 18:30)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
-                "menu": [
-                    {
-                        "name": {
-                            "pt": "Lombo de Salmão com puré batata doce e legumes aromatizados",
-                            "en": "Salmon loin with mashed sweet potato and flavored vegetables"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "15.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Lombo de Garoupa com arroz nero e legumes aromatizados",
-                            "en": "Grouper loin with black rice and flavored vegetables"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "19.5"
-                    }
-                ]
+                "menu": []
             },
             {
                 "subSection": {
