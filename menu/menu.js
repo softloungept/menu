@@ -1273,8 +1273,8 @@ const Menu = [
                             "en": "Herdade dos Grous 23 Barricas"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
