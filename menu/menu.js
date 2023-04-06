@@ -1269,18 +1269,18 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "EA Cartuxa",
-                            "en": "EA Cartuxa"
+                            "pt": "Herdade dos Grous 23 Barricas",
+                            "en": "Herdade dos Grous 23 Barricas"
                         },
                         "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
+                            "pt": "",
+                            "en": ""
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€/16"
+                        "price": "65"
                     }
                 ]
             },
