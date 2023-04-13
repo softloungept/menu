@@ -3737,7 +3737,7 @@ const Menu = [
                             "pt": "(queijos, enchidos, presunto)",
                             "en": "(queijos, enchidos, presunto)"
                         },
-                        "price": 11
+                        "price": "13"
                     },
                     {
                         "name": {
@@ -3854,7 +3854,7 @@ const Menu = [
                             "pt": "(mozzarella de búfala, tomate)",
                             "en": "(buffalo mozzarella, tomato)"
                         },
-                        "price": 6
+                        "price": "7'5"
                     }
                 ]
             },
