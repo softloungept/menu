@@ -2337,21 +2337,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Sharish Blue",
-                            "en": "Sharish Blue"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(morango, amora)",
-                            "en": "(strawberry, blackberry)"
-                        },
-                        "price": "12.5"
-                    },
-                    {
-                        "name": {
                             "pt": "Tanqueray",
                             "en": "Tanqueray"
                         },
