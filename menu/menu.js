@@ -3632,7 +3632,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 7.5
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -3812,7 +3812,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 8.5
+                        "price": "9"
                     }
                 ]
             },
@@ -3854,7 +3854,7 @@ const Menu = [
                             "pt": "(mozzarella de búfala, tomate)",
                             "en": "(buffalo mozzarella, tomato)"
                         },
-                        "price": "7'5"
+                        "price": "7.5"
                     }
                 ]
             },
@@ -4081,7 +4081,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 14.5
+                        "price": "15.5"
                     },
                     {
                         "name": {
@@ -4240,7 +4240,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 1.5
+                        "price": "2"
                     },
                     {
                         "name": {
@@ -4486,7 +4486,7 @@ const Menu = [
                             "pt": "(molho pesto, presunto, tomate, queijo, manteiga e orégãos)",
                             "en": "(pesto sauce, prosciutto ham, tomato, cheese, butter and oregano)"
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -4501,7 +4501,7 @@ const Menu = [
                             "pt": "(queijo, fiambre, manteiga e orégãos)",
                             "en": "(cheese, ham, butter and oregano)"
                         },
-                        "price": "6"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -4516,7 +4516,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -4546,7 +4546,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5.5"
+                        "price": "6"
                     }
                 ]
             },
