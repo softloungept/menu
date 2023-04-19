@@ -4298,6 +4298,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": 4.5
+                    },
+                    {
+                        "name": {
+                            "pt": "Bola de Gelado",
+                            "en": "Ice Ball"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "1.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Viennetta fatia",
+                            "en": "Viennetta slice"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "2.5"
                     }
                 ]
             },
