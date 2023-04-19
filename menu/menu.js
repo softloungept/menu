@@ -4040,18 +4040,18 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Di Mare",
-                            "en": "Di Mare"
+                            "pt": "Espargos e Queijo Brie",
+                            "en": "Asparagus and Brie Cheese"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "(camarão e lulas)",
-                            "en": "(shrimp and squid)"
+                            "pt": "",
+                            "en": ""
                         },
-                        "price": 16.5
+                        "price": "12.5"
                     },
                     {
                         "name": {
