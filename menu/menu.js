@@ -2217,8 +2217,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Gordons pink",
-                            "en": "Gordons pink"
+                            "pt": "Beefeater pink",
+                            "en": "Beefeater pink"
                         },
                         "info": {
                             "pt": "",
