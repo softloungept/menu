@@ -4302,7 +4302,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Bola de Gelado",
-                            "en": "Ice Ball"
+                            "en": "Ice Cream Ball"
                         },
                         "info": {
                             "pt": "",
