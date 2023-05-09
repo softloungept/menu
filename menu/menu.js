@@ -1014,8 +1014,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "1927 IPA",
-                            "en": "1927 Ipa"
+                            "pt": "1927 IPA  Artesanal",
+                            "en": "1927 Ipa  Artesanal"
                         },
                         "info": {
                             "pt": "",
@@ -1041,6 +1041,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "2.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Coruja IPA India Pale Ale",
+                            "en": "Coruja IPA India Pale Ale"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "3.5"
                     }
                 ]
             }
@@ -3692,7 +3707,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 13
+                        "price": "14"
                     },
                     {
                         "name": {
@@ -3915,8 +3930,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Supremo de frango em cama de puré de batata doce",
-                            "en": "Chicken supreme on a bed of sweet potato puree"
+                            "pt": "Peito de Frango em cama de puré de batata doce",
+                            "en": "Chicken Breast on a bed of sweet potato puree"
                         },
                         "info": {
                             "pt": "",
@@ -4009,7 +4024,7 @@ const Menu = [
                             "pt": "(espargos, tomate cherry, mozarela, bacon, presunto)",
                             "en": "(asparagus, cherry tomato, mozzarella, bacon, prosciutto ham)"
                         },
-                        "price": 11.5
+                        "price": "12.5"
                     },
                     {
                         "name": {
@@ -4024,7 +4039,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "11"
+                        "price": "11.5"
                     }
                 ]
             },
@@ -4081,7 +4096,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 11.5
+                        "price": "12.5"
                     }
                 ]
             },
@@ -4108,7 +4123,7 @@ const Menu = [
                             "pt": "(cebola, salsa, queijo, fiambre)",
                             "en": "(with onion, parsley, ham and cheese)"
                         },
-                        "price": 8
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -4267,7 +4282,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4.5
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -4486,7 +4501,7 @@ const Menu = [
                             "pt": "(atum, maionaise, queijo, manteiga e orégãos)",
                             "en": "(tuna, mayonnaise, cheese, butter and oregano)"
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -4501,7 +4516,7 @@ const Menu = [
                             "pt": "(molho pesto, presunto, tomate, queijo, manteiga e orégãos)",
                             "en": "(pesto sauce, prosciutto ham, tomato, cheese, butter and oregano)"
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -4516,7 +4531,7 @@ const Menu = [
                             "pt": "(queijo, fiambre, manteiga e orégãos)",
                             "en": "(cheese, ham, butter and oregano)"
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -4531,7 +4546,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
