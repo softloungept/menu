@@ -1493,6 +1493,21 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
+                        "price": "26"
+                    },
+                    {
+                        "name": {
+                            "pt": "Mélange á 3",
+                            "en": "Mélange á 3"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
                         "price": "16"
                     }
                 ]
