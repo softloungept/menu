@@ -1254,21 +1254,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Trinca Bolotas 2020",
-                            "en": "Trinca Bolotas 2020"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/15"
-                    },
-                    {
-                        "name": {
                             "pt": "Implicit",
                             "en": "Implicit"
                         },
@@ -1280,7 +1265,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€/15"
+                        "price": "4.5€/16"
                     },
                     {
                         "name": {
