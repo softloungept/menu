@@ -1152,6 +1152,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5€/13.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Chryseia P+S",
+                            "en": "Chryseia P+S"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "170"
                     }
                 ]
             },
