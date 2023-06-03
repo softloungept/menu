@@ -1056,6 +1056,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Inedit Damm (75cl)",
+                            "en": "Inedit Damm (75cl)"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "13"
                     }
                 ]
             }
