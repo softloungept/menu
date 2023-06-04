@@ -105,51 +105,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "6.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Limonada",
-                            "en": "Lemonade"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 4.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Limonada Menta",
-                            "en": "Mint Lemonade"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 5
-                    },
-                    {
-                        "name": {
-                            "pt": "Limonada Morango",
-                            "en": "Strawberry Lemonade"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 6
                     }
                 ]
             },
