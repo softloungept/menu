@@ -1308,6 +1308,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Cartuxa",
+                            "en": "Cartuxa"
+                        },
+                        "info": {
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "39"
                     }
                 ]
             },
