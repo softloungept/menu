@@ -1640,33 +1640,6 @@ const Menu = [
                         "price": "4€/15"
                     }
                 ]
-            },
-            {
-                "subSection": {
-                    "pt": "PENÌNSULA DE SETÙBAL TINTO",
-                    "en": "PENÌNSULA DE SETÙBAL RED"
-                },
-                "subSectionInfo": {
-                    "pt": "",
-                    "en": ""
-                },
-                "menu": [
-                    {
-                        "name": {
-                            "pt": "Ermelinda de Freitas Syrah Reserva",
-                            "en": "Ermelinda de Freitas Syrah Reserva"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "24"
-                    }
-                ]
             }
         ]
     },
@@ -3885,36 +3858,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Maminha",
-                            "en": "Maminha"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(arroz, batata frita, feijão preto, farófia)",
-                            "en": "(rice, french fries, black beans, farófia)"
-                        },
-                        "price": "14.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Bife à portuguesa",
-                            "en": "Portuguese steak"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(batata frita à rodela, ovo estrelado)",
-                            "en": "(potato chips, fried egg)"
-                        },
-                        "price": "13"
-                    },
-                    {
-                        "name": {
                             "pt": "Bife 3 pimentas",
                             "en": "3 pepper steak"
                         },
@@ -3942,21 +3885,6 @@ const Menu = [
                             "en": "(potato chips)"
                         },
                         "price": "14.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Peito de Frango em cama de puré de batata doce",
-                            "en": "Chicken Breast on a bed of sweet potato puree"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "12.5"
                     },
                     {
                         "name": {
@@ -4068,21 +3996,6 @@ const Menu = [
                     "en": ""
                 },
                 "menu": [
-                    {
-                        "name": {
-                            "pt": "Espargos e Queijo Brie",
-                            "en": "Asparagus and Brie Cheese"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "12.5"
-                    },
                     {
                         "name": {
                             "pt": "Camarão e limão com manjericão",
@@ -4343,21 +4256,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "1.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Viennetta fatia",
-                            "en": "Viennetta slice"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "2.5"
                     }
                 ]
             },
