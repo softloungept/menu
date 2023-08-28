@@ -1076,7 +1076,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "27"
+                        "price": "20"
                     },
                     {
                         "name": {
@@ -1178,7 +1178,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "27"
+                        "price": "20"
                     },
                     {
                         "name": {
@@ -1235,7 +1235,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "32"
+                        "price": "20"
                     },
                     {
                         "name": {
@@ -1464,21 +1464,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "12"
-                    },
-                    {
-                        "name": {
-                            "pt": "Quinta dos Carvalhais",
-                            "en": "Quinta dos Carvalhais"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "26"
                     },
                     {
                         "name": {
