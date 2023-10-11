@@ -774,21 +774,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": 3.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Bandida do Pomar cidra",
-                            "en": "Bandida do Pomar cidra"
-                        },
-                        "info": {
-                            "pt": "(0.40L)",
-                            "en": "(0.40L)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 4
                     }
                 ]
             },
@@ -866,21 +851,6 @@ const Menu = [
                         "name": {
                             "pt": "Sagres Bohemia bock",
                             "en": "Sagres Bohemia bock"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Sagres Bohemia puro malte",
-                            "en": "Sagres Bohemia puro malte"
                         },
                         "info": {
                             "pt": "",
@@ -984,21 +954,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Carlsberg Pilsner",
-                            "en": "Carlsberg Pilsner"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "2.5"
-                    },
-                    {
-                        "name": {
                             "pt": "Coruja IPA India Pale Ale",
                             "en": "Coruja IPA India Pale Ale"
                         },
@@ -1062,21 +1017,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "32"
-                    },
-                    {
-                        "name": {
-                            "pt": "Vinha Grande ",
-                            "en": "Vinha Grande"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "20"
                     },
                     {
                         "name": {
@@ -1164,21 +1104,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5€/13"
-                    },
-                    {
-                        "name": {
-                            "pt": "Vinha Grande",
-                            "en": "Vinha Grande"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "20"
                     },
                     {
                         "name": {
