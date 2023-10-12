@@ -2355,21 +2355,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Bloom",
-                            "en": "Bloom"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(laranja, canela)",
-                            "en": "(orange, cinnamon)"
-                        },
-                        "price": 9.5
-                    },
-                    {
-                        "name": {
                             "pt": "Azor",
                             "en": "Azor"
                         },
@@ -3276,21 +3261,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "15"
-                    },
-                    {
-                        "name": {
-                            "pt": "Lagavulin 16 Anos",
-                            "en": "Lagavulin 16 Anos"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "16"
                     },
                     {
                         "name": {
