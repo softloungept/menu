@@ -3845,17 +3845,6 @@ const Menu = [
             },
             {
                 "subSection": {
-                    "pt": "PEIXE",
-                    "en": "FISH"
-                },
-                "subSectionInfo": {
-                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 18:30)",
-                    "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
-                },
-                "menu": []
-            },
-            {
-                "subSection": {
                     "pt": "PASTA",
                     "en": "PASTA"
                 },
