@@ -3813,6 +3813,21 @@ const Menu = [
                     },
                     {
                         "name": {
+                            "pt": "Bife á Portuguesa",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(batatas ás rodelas,ovo,presunto)",
+                            "en": ""
+                        },
+                        "price": "13.5"
+                    },
+                    {
+                        "name": {
                             "pt": "",
                             "en": ""
                         },
