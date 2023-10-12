@@ -981,6 +981,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "13"
+                    },
+                    {
+                        "name": {
+                            "pt": "1927 Lager Japanese Rice",
+                            "en": "1927 Lager Japanese Rice"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4.5"
                     }
                 ]
             }
