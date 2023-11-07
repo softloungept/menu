@@ -192,36 +192,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Água tónica Fever Three",
-                            "en": "Tonic water Fever Three"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 4
-                    },
-                    {
-                        "name": {
-                            "pt": "Água tónica Nordic",
-                            "en": "Tonic water Nordic"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 3.5
-                    },
-                    {
-                        "name": {
                             "pt": "Ginger Ale",
                             "en": "Ginger Ale"
                         },
@@ -335,8 +305,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(limão; pêssego; manga-ananás)",
-                            "en": "(lemon; peach; mango-pineapple)"
+                            "pt": "(limão; pêssego; manga)",
+                            "en": "(lemon; peach; mango)"
                         },
                         "price": 2.5
                     },
@@ -590,7 +560,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "4.5"
                     },
                     {
                         "name": {
@@ -605,7 +575,7 @@ const Menu = [
                             "pt": "(chocolate branco; chocolate menta; chocolate caramelo; chocolate avelã)",
                             "en": "(white chocolate; mint chocolate; caramel chocolate; hazelnut chocolate)"
                         },
-                        "price": 4.5
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -674,8 +644,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(limão; frutos vermelhos; maracujá; tangerina)",
-                            "en": "(lemon; red fruits; passion fruit; tangerine)"
+                            "pt": "(limão; frutos vermelhos; maracujá)",
+                            "en": "(lemon; red fruits; passion fruit)"
                         },
                         "price": 2.5
                     },
