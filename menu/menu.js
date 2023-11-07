@@ -909,21 +909,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "1927 IPA  Artesanal",
-                            "en": "1927 Ipa  Artesanal"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4.5"
-                    },
-                    {
-                        "name": {
                             "pt": "Coruja IPA India Pale Ale",
                             "en": "Coruja IPA India Pale Ale"
                         },
@@ -1016,7 +1001,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5€/18"
+                        "price": "5€/19"
                     },
                     {
                         "name": {
@@ -1073,7 +1058,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5€/18"
+                        "price": "5€/19"
                     },
                     {
                         "name": {
@@ -1089,21 +1074,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5€/13"
-                    },
-                    {
-                        "name": {
-                            "pt": "Quinta dos Carvalhais",
-                            "en": "Quinta dos Carvalhais"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "7€/26"
                     }
                 ]
             },
@@ -1275,21 +1245,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "33"
-                    },
-                    {
-                        "name": {
-                            "pt": "Quinta dos Carvalhais",
-                            "en": "Quinta dos Carvalhais"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "26"
                     },
                     {
                         "name": {
