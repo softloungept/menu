@@ -29,7 +29,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4.5
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -95,6 +95,36 @@ const Menu = [
                         "name": {
                             "pt": "Banana-Laranja",
                             "en": "Banana-Orange"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Limonada",
+                            "en": "Lemonade"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Limonada-Morango",
+                            "en": "Lemonade-Strawberry"
                         },
                         "info": {
                             "pt": "",
@@ -770,7 +800,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2
+                        "price": "2.5"
                     },
                     {
                         "name": {
@@ -875,7 +905,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -890,7 +920,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "4.5"
                     },
                     {
                         "name": {
@@ -905,7 +935,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "4.5"
                     },
                     {
                         "name": {
@@ -1613,7 +1643,7 @@ const Menu = [
                             "pt": "(rum, coca-cola) ",
                             "en": "(rum, coca-cola) "
                         },
-                        "price": 7
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1688,7 +1718,7 @@ const Menu = [
                             "pt": "(vodka, blue coracão, sumo de limão)",
                             "en": "(vodka, blue coracão, lemon juice)"
                         },
-                        "price": "9.5"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -1793,7 +1823,7 @@ const Menu = [
                             "pt": "(gin, menta, natas)",
                             "en": "(gin, mint, cream)"
                         },
-                        "price": 7.5
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1835,7 +1865,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "5"
                     },
                     {
                         "name": {
