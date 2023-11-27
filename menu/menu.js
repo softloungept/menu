@@ -3717,7 +3717,7 @@ const Menu = [
                         },
                         "description": {
                             "pt": "(batata frita à rodela)",
-                            "en": "(potato chips)"
+                            "en": "(French fries)"
                         },
                         "price": "14.5"
                     },
