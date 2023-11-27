@@ -864,21 +864,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Sagres s/álcool",
-                            "en": "Sagres s/álcool"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2
-                    },
-                    {
-                        "name": {
                             "pt": "Somersby",
                             "en": "Somersby"
                         },
@@ -4197,21 +4182,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": 4
-                    },
-                    {
-                        "name": {
-                            "pt": "Cachorro em pão frade",
-                            "en": "Hot dog with 'frade' bread"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 5
                     },
                     {
                         "name": {
