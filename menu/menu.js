@@ -410,7 +410,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 1
+                        "price": "1.5"
                     },
                     {
                         "name": {
@@ -485,7 +485,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "3"
                     },
                     {
                         "name": {
@@ -500,7 +500,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 3.5
+                        "price": "4"
                     },
                     {
                         "name": {
@@ -1274,7 +1274,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€/15"
+                        "price": "4€/16"
                     }
                 ]
             },
@@ -2736,6 +2736,51 @@ const Menu = [
                             "en": ""
                         },
                         "price": "6"
+                    },
+                    {
+                        "name": {
+                            "pt": "Limoncello",
+                            "en": "Limoncello"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6"
+                    },
+                    {
+                        "name": {
+                            "pt": "Jagermeister",
+                            "en": "Jagermeister"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "8.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Amaretto",
+                            "en": "Amaretto"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "8.5"
                     }
                 ]
             },
@@ -3351,6 +3396,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "13"
+                    },
+                    {
+                        "name": {
+                            "pt": "Four Roses",
+                            "en": "Four Roses"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "10"
                     }
                 ]
             },
