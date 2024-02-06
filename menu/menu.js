@@ -1001,7 +1001,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "32"
+                        "price": "38"
                     },
                     {
                         "name": {
@@ -1115,22 +1115,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "28"
-                    },
-                    {
-                        "name": {
-                            "pt": "Revelado",
-                            "en": "Revelado"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "20"
+                        "price": "32"
                     },
                     {
                         "name": {
@@ -1145,7 +1130,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4.5€/16"
+                        "price": "4€/16"
                     },
                     {
                         "name": {
@@ -1202,7 +1187,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€/15"
+                        "price": "4€/16"
                     },
                     {
                         "name": {
@@ -1244,7 +1229,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5€/13"
+                        "price": "4€/16"
                     },
                     {
                         "name": {
@@ -1473,36 +1458,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/15"
-                    },
-                    {
-                        "name": {
-                            "pt": "Prova Regia",
-                            "en": "Prova Regia"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/15"
-                    },
-                    {
-                        "name": {
-                            "pt": "Fiuza sauvignon Blanc",
-                            "en": "Fiuza sauvignon Blanc"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/15"
                     }
                 ]
             }
@@ -1538,7 +1493,7 @@ const Menu = [
                             "pt": "(cachaça, lima, açúcar amarelo)",
                             "en": "(cachaça, lime, brown sugar)"
                         },
-                        "price": 6
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1553,7 +1508,7 @@ const Menu = [
                             "pt": "(vodka, lima, açúcar amarelo)",
                             "en": "(vodka, lime, brown sugar)"
                         },
-                        "price": 6
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1568,7 +1523,7 @@ const Menu = [
                             "pt": "(vodka black, lima)",
                             "en": "(vodka black, lime)"
                         },
-                        "price": 6
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1583,7 +1538,7 @@ const Menu = [
                             "pt": "(beirão e lima)",
                             "en": "(beirão and lime)"
                         },
-                        "price": 6
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -1598,7 +1553,7 @@ const Menu = [
                             "pt": "(vodka, morango, açúcar amarelo)",
                             "en": "(vodka, strawberry, brown sugar)"
                         },
-                        "price": 6.5
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -1613,7 +1568,7 @@ const Menu = [
                             "pt": "(vodka, kiwi, açúcar amarelo)",
                             "en": "(vodka, kiwi, brown sugar)"
                         },
-                        "price": 6.5
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -1934,7 +1889,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13 €/24"
+                        "price": "14 €/27"
                     },
                     {
                         "name": {
@@ -1964,7 +1919,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "17 €/32"
+                        "price": "18 €/34"
                     },
                     {
                         "name": {
@@ -1979,7 +1934,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "20 €/38"
+                        "price": "22 €/40"
                     }
                 ]
             },
@@ -2036,7 +1991,7 @@ const Menu = [
                             "pt": "(laranja, vagem de baunilha)",
                             "en": "(orange, vanilla pod)"
                         },
-                        "price": 8.5
+                        "price": "11"
                     },
                     {
                         "name": {
@@ -2382,21 +2337,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Bacardi Lemon",
-                            "en": "Bacardi Lemon"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 6
-                    },
-                    {
-                        "name": {
                             "pt": "Havanna Club 3 anos",
                             "en": "Havanna Club 3 anos"
                         },
@@ -2423,7 +2363,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 8.5
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -2630,7 +2570,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -2660,7 +2600,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2891,7 +2831,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5.5
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -2906,7 +2846,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 5.5
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -3464,7 +3404,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 18
+                        "price": "22"
                     }
                 ]
             }
@@ -4241,7 +4181,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -4343,7 +4283,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -4358,7 +4298,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -4373,7 +4313,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "6.5"
                     }
                 ]
             },
