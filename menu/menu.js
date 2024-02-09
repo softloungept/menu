@@ -2111,7 +2111,7 @@ const Menu = [
                             "pt": "(amora, morango)",
                             "en": "(blackberry, strawberry)"
                         },
-                        "price": 15
+                        "price": "19"
                     },
                     {
                         "name": {
@@ -2748,21 +2748,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "7"
-                    },
-                    {
-                        "name": {
-                            "pt": "Adamus Velhissima 20 Anos",
-                            "en": "Adamus Velhissima 20 Anos"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "20"
                     }
                 ]
             },
