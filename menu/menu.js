@@ -3230,7 +3230,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13"
+                        "price": "16"
                     },
                     {
                         "name": {
