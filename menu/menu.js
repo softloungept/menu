@@ -4186,7 +4186,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Hambúrguer de Vaca",
-                            "en": "Hambúrger"
+                            "en": "Hamburger"
                         },
                         "info": {
                             "pt": "",
@@ -4194,7 +4194,7 @@ const Menu = [
                         },
                         "description": {
                             "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)",
-                            "en": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)"
+                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries)"
                         },
                         "price": "13"
                     },
@@ -4209,7 +4209,7 @@ const Menu = [
                         },
                         "description": {
                             "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)",
-                            "en": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)"
+                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries)"
                         },
                         "price": "11.5"
                     }
