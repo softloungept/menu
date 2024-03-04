@@ -4182,6 +4182,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": 4
+                    },
+                    {
+                        "name": {
+                            "pt": "Hambúrguer de Vaca",
+                            "en": "Hambúrger"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)",
+                            "en": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)"
+                        },
+                        "price": "13"
+                    },
+                    {
+                        "name": {
+                            "pt": "Hambúrguer de Frango",
+                            "en": "Chicken Burger"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)",
+                            "en": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)"
+                        },
+                        "price": "11.5"
                     }
                 ]
             },
