@@ -353,7 +353,7 @@ const Menu = [
                             "pt": "(maçã; pera; frutos vermelhos; manga-laranja, pêssego)",
                             "en": "(apple; pear; red berries; mango-orange, peach)"
                         },
-                        "price": "3"
+                        "price": "2.5"
                     }
                 ]
             },
