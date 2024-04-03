@@ -954,8 +954,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "1927 Lager Japanese Rice",
-                            "en": "1927 Lager Japanese Rice"
+                            "pt": "1927 Weiss",
+                            "en": "1927 Weiss"
                         },
                         "info": {
                             "pt": "",
@@ -965,7 +965,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4.5"
+                        "price": "5"
                     }
                 ]
             }
