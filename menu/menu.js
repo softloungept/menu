@@ -3455,7 +3455,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4.5
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -3594,21 +3594,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Azeitonas",
-                            "en": "Olives "
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2
-                    },
-                    {
-                        "name": {
                             "pt": "Caracóis",
                             "en": "Snails"
                         },
@@ -3621,6 +3606,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "9"
+                    },
+                    {
+                        "name": {
+                            "pt": "Palitos Mozarela",
+                            "en": "Mozzarella Sticks"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Palitos Mozarela,Nachos,Molho de Evas,Ketchup)",
+                            "en": "(Mozzarella Sticks,Nachos,Herbs Sauce,Ketchup)"
+                        },
+                        "price": "7"
                     }
                 ]
             },
@@ -4193,8 +4193,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)",
-                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries)"
+                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita,Molho de Ervas)",
+                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herb Sauce)"
                         },
                         "price": "13"
                     },
@@ -4208,8 +4208,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita)",
-                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries)"
+                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita,Molho de Ervas)",
+                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herb Sauce)"
                         },
                         "price": "11.5"
                     }
@@ -4401,6 +4401,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": 3
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
                     }
                 ]
             },
@@ -4413,7 +4428,98 @@ const Menu = [
                     "pt": "",
                     "en": ""
                 },
-                "menu": []
+                "menu": [
+                    {
+                        "name": {
+                            "pt": "BatataPacote",
+                            "en": "Chips"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "1"
+                    },
+                    {
+                        "name": {
+                            "pt": "Azeitonas",
+                            "en": "Olives"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "2"
+                    },
+                    {
+                        "name": {
+                            "pt": "Mix Frutos Secos",
+                            "en": "Mix Dry Fruits"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "2"
+                    },
+                    {
+                        "name": {
+                            "pt": "Nozes",
+                            "en": "Nuts"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "2"
+                    },
+                    {
+                        "name": {
+                            "pt": "Tremoços",
+                            "en": "Lupins"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "1"
+                    },
+                    {
+                        "name": {
+                            "pt": "Nachos",
+                            "en": "Nachos"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "3"
+                    }
+                ]
             }
         ]
     }
