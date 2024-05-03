@@ -4403,6 +4403,17 @@ const Menu = [
                         "price": 3
                     }
                 ]
+            },
+            {
+                "subSection": {
+                    "pt": "APERITIVOS",
+                    "en": "APPETIERS"
+                },
+                "subSectionInfo": {
+                    "pt": "",
+                    "en": ""
+                },
+                "menu": []
             }
         ]
     }
