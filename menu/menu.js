@@ -3605,7 +3605,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "9"
+                        "price": "12.5"
                     },
                     {
                         "name": {
@@ -3617,7 +3617,7 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(Palitos Mozarela,Nachos,Molho de Evas,Ketchup)",
+                            "pt": "(Palitos Mozarela,Nachos,Molho de Ervas,Ketchup)",
                             "en": "(Mozzarella Sticks,Nachos,Herbs Sauce,Ketchup)"
                         },
                         "price": "7"
@@ -3966,21 +3966,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Chips",
-                            "en": "Potato chips"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 1
-                    },
-                    {
-                        "name": {
                             "pt": "Salada mista",
                             "en": "Mixed salad"
                         },
@@ -4194,7 +4179,7 @@ const Menu = [
                         },
                         "description": {
                             "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita,Molho de Ervas)",
-                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herb Sauce)"
+                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herbs Sauce)"
                         },
                         "price": "13"
                     },
@@ -4209,9 +4194,24 @@ const Menu = [
                         },
                         "description": {
                             "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita,Molho de Ervas)",
-                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herb Sauce)"
+                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herbs Sauce)"
                         },
                         "price": "11.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
                     }
                 ]
             },
@@ -4431,7 +4431,7 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "BatataPacote",
+                            "pt": "Batata de Pacote",
                             "en": "Chips"
                         },
                         "info": {
