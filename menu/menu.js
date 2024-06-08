@@ -135,6 +135,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "6.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Limonada-Maracujá",
+                            "en": "Lemonade-Passion Fruit"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6.5"
                     }
                 ]
             },
@@ -2721,6 +2736,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "8.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Amarguinha Cream",
+                            "en": "Amarguinha Cream"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6"
                     }
                 ]
             },
@@ -3621,6 +3651,21 @@ const Menu = [
                             "en": "(Mozzarella Sticks,Nachos,Herbs Sauce,Ketchup)"
                         },
                         "price": "7"
+                    },
+                    {
+                        "name": {
+                            "pt": "Moelas",
+                            "en": "Chicken gizzards"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "7"
                     }
                 ]
             },
@@ -3738,18 +3783,18 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "Tornedó do Lombo",
+                            "en": "Filet Steak "
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(Batatas fritas,legumes salteados,Molho de Natas)",
+                            "en": "(French fries,sautéed vegetables,cream sauce)"
                         },
-                        "price": ""
+                        "price": "19.50"
                     }
                 ]
             },
@@ -3807,6 +3852,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "11.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Esparguete á Bolonhesa",
+                            "en": "Spaghetti Bolognese"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "12.5"
                     }
                 ]
             },
@@ -4065,6 +4125,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "2"
+                    },
+                    {
+                        "name": {
+                            "pt": "Mousse Manga",
+                            "en": "Mango Mousse"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "3.5"
                     }
                 ]
             },
