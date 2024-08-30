@@ -1103,7 +1103,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5€/13"
+                        "price": "4€/14.5"
                     }
                 ]
             },
@@ -3881,7 +3881,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "11.5"
+                        "price": "12.5"
                     },
                     {
                         "name": {
@@ -4305,7 +4305,7 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "",
+                            "pt": "Meio Prego",
                             "en": ""
                         },
                         "info": {
@@ -4316,7 +4316,22 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": ""
+                        "price": "5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Meio Prego Especial",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6"
                     }
                 ]
             },
@@ -4343,7 +4358,7 @@ const Menu = [
                             "pt": "(frango, maionaise, tomate, queijo, manteiga e orégãos)",
                             "en": "(chicken, mayonnaise, tomato, cheese, butter and oregano)"
                         },
-                        "price": "8"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -4358,7 +4373,7 @@ const Menu = [
                             "pt": "(atum, maionaise, queijo, manteiga e orégãos)",
                             "en": "(tuna, mayonnaise, cheese, butter and oregano)"
                         },
-                        "price": "8.5"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -4373,7 +4388,7 @@ const Menu = [
                             "pt": "(molho pesto, presunto, tomate, queijo, manteiga e orégãos)",
                             "en": "(pesto sauce, prosciutto ham, tomato, cheese, butter and oregano)"
                         },
-                        "price": "8.5"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -4388,7 +4403,7 @@ const Menu = [
                             "pt": "(queijo, fiambre, manteiga e orégãos)",
                             "en": "(cheese, ham, butter and oregano)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -4403,7 +4418,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -4418,7 +4433,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -4433,7 +4448,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     }
                 ]
             },
