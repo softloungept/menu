@@ -3825,6 +3825,36 @@ const Menu = [
                             "en": "(French fries,sautéed vegetables,cream sauce)"
                         },
                         "price": "19.50"
+                    },
+                    {
+                        "name": {
+                            "pt": "Costeletas de Borrego",
+                            "en": "Lamb Chops"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Batatas fritas ,Esparregado)",
+                            "en": "(French fries,spinach spread)"
+                        },
+                        "price": "16.50"
+                    },
+                    {
+                        "name": {
+                            "pt": "Bife do Lombo",
+                            "en": "Sirloin Steak"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Batatas fritas,legumes salteados)",
+                            "en": "(French fries,sautéed vegetables)"
+                        },
+                        "price": "19.5"
                     }
                 ]
             },
@@ -4186,7 +4216,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Prego",
-                            "en": "Beef steak sandwich"
+                            "en": "Beef steak on Bread"
                         },
                         "info": {
                             "pt": "",
@@ -4201,7 +4231,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Prego Especial",
-                            "en": "Special beef steak sandwich"
+                            "en": "Special beef steak on Bread"
                         },
                         "info": {
                             "pt": "",
@@ -4216,7 +4246,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Bifana",
-                            "en": "Pork sandwich"
+                            "en": "Pork on Bread"
                         },
                         "info": {
                             "pt": "",
@@ -4231,7 +4261,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Bifana Especial",
-                            "en": "Special pork sandwich"
+                            "en": "Special pork on Bread"
                         },
                         "info": {
                             "pt": "",
@@ -4332,6 +4362,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": "6"
+                    },
+                    {
+                        "name": {
+                            "pt": "Prego do lombo",
+                            "en": "Sirloin Steak on Bread"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "12"
+                    },
+                    {
+                        "name": {
+                            "pt": "Meio Prego do Lombo",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "8"
                     }
                 ]
             },
