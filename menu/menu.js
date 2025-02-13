@@ -1062,6 +1062,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "170"
+                    },
+                    {
+                        "name": {
+                            "pt": "Mazouco",
+                            "en": "Mazouco"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4/16"
                     }
                 ]
             },
@@ -1104,6 +1119,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/14.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Mazouco",
+                            "en": "Mazouco"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4/16"
                     }
                 ]
             },
@@ -1331,7 +1361,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16"
+                        "price": "21"
                     },
                     {
                         "name": {
@@ -1347,6 +1377,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": "15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Alvarinho Loureiro/Azevedo",
+                            "en": "Alvarinho Loureiro/Azevedo"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "17"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
                     }
                 ]
             },
@@ -1503,6 +1563,63 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/15"
+                    },
+                    {
+                        "name": {
+                            "pt": "Roseiral Reserva",
+                            "en": "Roseiral Reserva"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4/16"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
+                    }
+                ]
+            },
+            {
+                "subSection": {
+                    "pt": "LISBOA / OESTE TINTO",
+                    "en": "LISBON / WEST RED"
+                },
+                "subSectionInfo": {
+                    "pt": "",
+                    "en": "Roseiral Reserva"
+                },
+                "menu": [
+                    {
+                        "name": {
+                            "pt": "Roseiral Reserva",
+                            "en": "Roseiral Reserva"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "24"
                     }
                 ]
             }
@@ -2780,7 +2897,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "7"
                     }
                 ]
             },
