@@ -3840,6 +3840,21 @@ const Menu = [
                             "en": "(French fries,sautéed vegetables)"
                         },
                         "price": "19.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Bife de frango",
+                            "en": "Chicken Steak"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Batata Frita,Arroz)",
+                            "en": "(French Fries,Rise)"
+                        },
+                        "price": "12.5"
                     }
                 ]
             },
@@ -4668,6 +4683,48 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4"
+                    }
+                ]
+            },
+            {
+                "subSection": {
+                    "pt": "PEIXE",
+                    "en": "FISH"
+                },
+                "subSectionInfo": {
+                    "pt": "",
+                    "en": ""
+                },
+                "menu": [
+                    {
+                        "name": {
+                            "pt": "Bacalhau ",
+                            "en": "Codfish"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Espinafres,Broa com farinheira,Batata á Lagareiro)",
+                            "en": "(Spinach,Cornbread with Farinheira,Potato)"
+                        },
+                        "price": "22.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Lulas",
+                            "en": "Squid"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "Pimentos,Cebola,Batata á Lagareiro)",
+                            "en": "(Peppers,Onion,Potato)"
+                        },
+                        "price": "21.5"
                     }
                 ]
             }
