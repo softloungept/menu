@@ -3854,7 +3854,7 @@ const Menu = [
                             "pt": "(frango, molho caesar, alface, tomate cherry, queijo parmesão)",
                             "en": "(chicken, caesar sauce, lettuce, cherry tomato, parmesan cheese)"
                         },
-                        "price": "10.5"
+                        "price": "12.5"
                     },
                     {
                         "name": {
