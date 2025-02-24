@@ -3813,6 +3813,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4"
+                    },
+                    {
+                        "name": {
+                            "pt": "Tabua de Queijos",
+                            "en": "Chesse Board"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "13"
                     }
                 ]
             },
