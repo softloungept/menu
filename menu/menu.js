@@ -3797,7 +3797,22 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "9.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Sopa do Dia",
+                            "en": "Soup"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4"
                     }
                 ]
             },
@@ -4841,9 +4856,20 @@ const Menu = [
                             "pt": "Pimentos,Cebola,Batata á Lagareiro)",
                             "en": "(Peppers,Onion,Potato)"
                         },
-                        "price": "21.5"
+                        "price": "17.5"
                     }
                 ]
+            },
+            {
+                "subSection": {
+                    "pt": "",
+                    "en": ""
+                },
+                "subSectionInfo": {
+                    "pt": "",
+                    "en": ""
+                },
+                "menu": []
             }
         ]
     }
