@@ -1005,21 +1005,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Duas Quintas",
-                            "en": "Duas Quintas"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "38"
-                    },
-                    {
-                        "name": {
                             "pt": "Papa Figos",
                             "en": "Papa Figos"
                         },
@@ -1077,6 +1062,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4/16"
+                    },
+                    {
+                        "name": {
+                            "pt": "Vale Dona maria Superior",
+                            "en": "Vale Dona maria Superior"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "24"
                     }
                 ]
             },
@@ -1206,6 +1206,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "3.5/13"
+                    },
+                    {
+                        "name": {
+                            "pt": "Esporao Reserva 2022",
+                            "en": "Esporao Reserva 2022"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "34"
                     }
                 ]
             },
@@ -1433,7 +1448,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "12"
+                        "price": "13.5"
                     },
                     {
                         "name": {
@@ -1551,21 +1566,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Fiuza Chardonnay",
-                            "en": "Fiuza Chardonnay"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/15"
-                    },
-                    {
-                        "name": {
                             "pt": "Roseiral Reserva",
                             "en": "Roseiral Reserva"
                         },
@@ -1581,8 +1581,8 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "Portada",
+                            "en": "Portada"
                         },
                         "info": {
                             "pt": "",
@@ -1592,7 +1592,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": ""
+                        "price": "4/16"
                     }
                 ]
             },
@@ -1620,6 +1620,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "24"
+                    },
+                    {
+                        "name": {
+                            "pt": "Portada",
+                            "en": "Portada"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4/16"
                     }
                 ]
             }
