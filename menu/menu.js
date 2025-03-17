@@ -1179,21 +1179,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Herdade dos Grous 23 Barricas",
-                            "en": "Herdade dos Grous 23 Barricas"
-                        },
-                        "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "65"
-                    },
-                    {
-                        "name": {
                             "pt": "Conde de Arraiolos",
                             "en": "Conde de Arraiolos"
                         },
@@ -1448,7 +1433,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13.5"
+                        "price": "14"
                     },
                     {
                         "name": {
@@ -2066,7 +2051,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "14 €/27"
+                        "price": "15 €/29"
                     },
                     {
                         "name": {
@@ -2081,7 +2066,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16 €/30"
+                        "price": "17 €/33"
                     },
                     {
                         "name": {
@@ -2096,7 +2081,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "18 €/34"
+                        "price": "19 €/337"
                     },
                     {
                         "name": {
@@ -2111,7 +2096,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "24 €/46"
+                        "price": "26 €/49"
                     }
                 ]
             },
