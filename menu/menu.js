@@ -1009,8 +1009,8 @@ const Menu = [
                             "en": "Papa Figos"
                         },
                         "info": {
-                            "pt": "(garrafa)",
-                            "en": "(bottle)"
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1024,7 +1024,7 @@ const Menu = [
                             "en": "Esteva"
                         },
                         "info": {
-                            "pt": "(garrafa)",
+                            "pt": "(copo/garrafa)",
                             "en": "(bottle)"
                         },
                         "description": {
@@ -1039,8 +1039,8 @@ const Menu = [
                             "en": "Chryseia P+S"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1054,8 +1054,8 @@ const Menu = [
                             "en": "Mazouco"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1069,8 +1069,8 @@ const Menu = [
                             "en": "Vale Dona maria Superior"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(garrafa)",
+                            "en": "(botlle)"
                         },
                         "description": {
                             "pt": "",
@@ -1126,8 +1126,8 @@ const Menu = [
                             "en": "Mazouco"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1184,7 +1184,7 @@ const Menu = [
                         },
                         "info": {
                             "pt": "(copo/garrafa)",
-                            "en": ""
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1198,8 +1198,8 @@ const Menu = [
                             "en": "Esporao Reserva 2022"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(garrafa)",
+                            "en": "(botlle)"
                         },
                         "description": {
                             "pt": "",
@@ -1271,7 +1271,7 @@ const Menu = [
                         },
                         "info": {
                             "pt": "(copo/garrafa)",
-                            "en": ""
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1384,8 +1384,8 @@ const Menu = [
                             "en": "Alvarinho Loureiro/Azevedo"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1441,8 +1441,8 @@ const Menu = [
                             "en": "Mélange á 3"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(garrafa)",
+                            "en": "(bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1555,8 +1555,8 @@ const Menu = [
                             "en": "Roseiral Reserva"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1570,8 +1570,8 @@ const Menu = [
                             "en": "Portada"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1597,8 +1597,8 @@ const Menu = [
                             "en": "Roseiral Reserva"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -1612,8 +1612,8 @@ const Menu = [
                             "en": "Portada"
                         },
                         "info": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
                         },
                         "description": {
                             "pt": "",
@@ -2081,7 +2081,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "19 €/337"
+                        "price": "19 €/37"
                     },
                     {
                         "name": {
