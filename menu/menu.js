@@ -4805,14 +4805,75 @@ const Menu = [
             },
             {
                 "subSection": {
-                    "pt": "",
-                    "en": ""
+                    "pt": "TORRADAS",
+                    "en": "TOASTED BREAD"
                 },
                 "subSectionInfo": {
                     "pt": "",
                     "en": ""
                 },
-                "menu": []
+                "menu": [
+                    {
+                        "name": {
+                            "pt": "Torrada",
+                            "en": "Toasted bread"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "3.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "1/2 Torrada",
+                            "en": "1/2 Toasted bread"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "2.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Torrada com doce ou mel",
+                            "en": "Toasted bread with jam or honey"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "4"
+                    },
+                    {
+                        "name": {
+                            "pt": "1/2 Torrada com doce ou mel",
+                            "en": "1/2 Toasted bread whit jam or honey"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "3.5"
+                    }
+                ]
             }
         ]
     }
