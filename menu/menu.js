@@ -4647,7 +4647,7 @@ const Menu = [
             {
                 "subSection": {
                     "pt": "SALADAS",
-                    "en": "TOASTED BREAD"
+                    "en": "SALADS"
                 },
                 "subSectionInfo": {
                     "pt": "",
