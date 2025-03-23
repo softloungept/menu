@@ -3833,8 +3833,8 @@ const Menu = [
             },
             {
                 "subSection": {
-                    "pt": "SALADAS",
-                    "en": "SALADS"
+                    "pt": "PEIXE",
+                    "en": "FISH"
                 },
                 "subSectionInfo": {
                     "pt": "",
@@ -3843,33 +3843,33 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Caesar",
-                            "en": "Caesar"
+                            "pt": "Bacalhau ",
+                            "en": "Codfish"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "(frango, molho caesar, alface, tomate cherry, queijo parmesão)",
-                            "en": "(chicken, caesar sauce, lettuce, cherry tomato, parmesan cheese)"
+                            "pt": "(Espinafres,Broa com farinheira,Batata á Lagareiro)",
+                            "en": "(Spinach,Cornbread with Farinheira,Potato)"
                         },
-                        "price": "12.5"
+                        "price": "19.5"
                     },
                     {
                         "name": {
-                            "pt": "Búfala",
-                            "en": "Buffalo"
+                            "pt": "Lulas",
+                            "en": "Squid"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "(mozzarella de búfala, tomate)",
-                            "en": "(buffalo mozzarella, tomato)"
+                            "pt": "Pimentos,Cebola,Batata á Lagareiro)",
+                            "en": "Peppers,Onion,Potato)"
                         },
-                        "price": "8.5"
+                        "price": "17.5"
                     }
                 ]
             },
@@ -4646,7 +4646,7 @@ const Menu = [
             },
             {
                 "subSection": {
-                    "pt": "TORRADAS",
+                    "pt": "SALADAS",
                     "en": "TOASTED BREAD"
                 },
                 "subSectionInfo": {
@@ -4656,63 +4656,33 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Torrada",
-                            "en": "Toasted bread"
+                            "pt": "Caesar",
+                            "en": "Caesar"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(frango,molho caesar,alface,tomate cherry,queijo parmesao)",
+                            "en": "(chicken,caesar sauce,lettuce,cherry tomato,parmesan cheese)"
                         },
-                        "price": "3.5"
+                        "price": "12.5"
                     },
                     {
                         "name": {
-                            "pt": "½ Torrada",
-                            "en": "½ Toasted bread"
+                            "pt": "Búfala",
+                            "en": "Buffalo"
                         },
                         "info": {
                             "pt": "",
                             "en": ""
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "(mozzarella de búfala,tomate)",
+                            "en": "(buffalo mozarella,tomato)"
                         },
-                        "price": "2.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Torrada c/ Doce ou Mel",
-                            "en": "Toasted bread with jam or honey"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4"
-                    },
-                    {
-                        "name": {
-                            "pt": "½ Torrada c/ Doce ou Mel",
-                            "en": "½ Toasted bread with jam or honey"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "3.5"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -4830,48 +4800,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4"
-                    }
-                ]
-            },
-            {
-                "subSection": {
-                    "pt": "PEIXE",
-                    "en": "FISH"
-                },
-                "subSectionInfo": {
-                    "pt": "",
-                    "en": ""
-                },
-                "menu": [
-                    {
-                        "name": {
-                            "pt": "Bacalhau ",
-                            "en": "Codfish"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(Espinafres,Broa com farinheira,Batata á Lagareiro)",
-                            "en": "(Spinach,Cornbread with Farinheira,Potato)"
-                        },
-                        "price": "22.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Lulas",
-                            "en": "Squid"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "Pimentos,Cebola,Batata á Lagareiro)",
-                            "en": "(Peppers,Onion,Potato)"
-                        },
-                        "price": "17.5"
                     }
                 ]
             },
