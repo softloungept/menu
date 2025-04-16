@@ -1031,7 +1031,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5€/13.5"
+                        "price": "4€/14.5"
                     },
                     {
                         "name": {
@@ -1047,21 +1047,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "170"
-                    },
-                    {
-                        "name": {
-                            "pt": "Mazouco",
-                            "en": "Mazouco"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4/16"
                     },
                     {
                         "name": {
@@ -1119,21 +1104,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "4€/14.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Mazouco",
-                            "en": "Mazouco"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4/16"
                     }
                 ]
             },
@@ -1190,7 +1160,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5/13"
+                        "price": "4/14"
                     },
                     {
                         "name": {
@@ -1304,7 +1274,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€/16"
+                        "price": "5€/19"
                     },
                     {
                         "name": {
@@ -1334,7 +1304,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4€/16"
+                        "price": "4.5€/17"
                     }
                 ]
             },
@@ -1361,7 +1331,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "21"
+                        "price": "23"
                     },
                     {
                         "name": {
@@ -1433,7 +1403,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "14"
+                        "price": "15"
                     },
                     {
                         "name": {
@@ -1562,7 +1532,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4/16"
+                        "price": "5/19"
                     },
                     {
                         "name": {
@@ -1591,21 +1561,6 @@ const Menu = [
                     "en": "Roseiral Reserva"
                 },
                 "menu": [
-                    {
-                        "name": {
-                            "pt": "Roseiral Reserva",
-                            "en": "Roseiral Reserva"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "24"
-                    },
                     {
                         "name": {
                             "pt": "Portada",
@@ -3595,7 +3550,7 @@ const Menu = [
                             "en": "'Bulhão pato' clams"
                         },
                         "info": {
-                            "pt": "",
+                            "pt": "ida",
                             "en": ""
                         },
                         "description": {
@@ -3801,21 +3756,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Sopa do Dia",
-                            "en": "Soup"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4"
-                    },
-                    {
-                        "name": {
                             "pt": "Tabua de Queijos",
                             "en": "Chesse Board"
                         },
@@ -3956,7 +3896,7 @@ const Menu = [
                             "pt": "(Batatas fritas,legumes salteados,Molho de Natas)",
                             "en": "(French fries,sautéed vegetables,cream sauce)"
                         },
-                        "price": "19.50"
+                        "price": "21.50"
                     },
                     {
                         "name": {
@@ -3971,7 +3911,7 @@ const Menu = [
                             "pt": "(Batatas fritas ,Esparregado)",
                             "en": "(French fries,spinach spread)"
                         },
-                        "price": "18.50"
+                        "price": "19.50"
                     },
                     {
                         "name": {
@@ -3986,7 +3926,7 @@ const Menu = [
                             "pt": "(Batatas fritas,legumes salteados)",
                             "en": "(French fries,sautéed vegetables)"
                         },
-                        "price": "19.5"
+                        "price": "21.5"
                     },
                     {
                         "name": {
@@ -4172,7 +4112,7 @@ const Menu = [
                             "pt": "(cebola, salsa, queijo, camarão)",
                             "en": "(with onion, parsley, cheese and shrimps)"
                         },
-                        "price": "13.5"
+                        "price": "14.5"
                     }
                 ]
             },
