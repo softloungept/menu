@@ -864,21 +864,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Sagres Bohemia bock",
-                            "en": "Sagres Bohemia bock"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2.5
-                    },
-                    {
-                        "name": {
                             "pt": "Somersby",
                             "en": "Somersby"
                         },
@@ -954,21 +939,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Inedit Damm (75cl)",
-                            "en": "Inedit Damm (75cl)"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "13"
-                    },
-                    {
-                        "name": {
                             "pt": "1927 Weiss",
                             "en": "1927 Weiss"
                         },
@@ -981,6 +951,36 @@ const Menu = [
                             "en": ""
                         },
                         "price": "5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Raiana",
+                            "en": "Raiana"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Cerveja artesanal portuguesa)",
+                            "en": "(Portuguese craft beer)"
+                        },
+                        "price": "8"
+                    },
+                    {
+                        "name": {
+                            "pt": "Super Bock Stout",
+                            "en": "Super Bock Stout"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": "(Dark Beer)"
+                        },
+                        "price": "2.5"
                     }
                 ]
             }
@@ -1134,21 +1134,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Implicit",
-                            "en": "Implicit"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/16"
-                    },
-                    {
-                        "name": {
                             "pt": "Conde de Arraiolos",
                             "en": "Conde de Arraiolos"
                         },
@@ -1176,6 +1161,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "34"
+                    },
+                    {
+                        "name": {
+                            "pt": "Silk & Spice",
+                            "en": "Silk & Spice"
+                        },
+                        "info": {
+                            "pt": "(copo/garrafa)",
+                            "en": "(cup/bottle)"
+                        },
+                        "description": {
+                            "pt": "( recomendado pela casa)",
+                            "en": "( recommended by the house)"
+                        },
+                        "price": "6/22"
                     }
                 ]
             },
@@ -1206,21 +1206,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Implicit",
-                            "en": "Implicit"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4€/16"
-                    },
-                    {
-                        "name": {
                             "pt": "Cartuxa",
                             "en": "Cartuxa"
                         },
@@ -1236,18 +1221,18 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Vinha do Monte",
-                            "en": "Vinha do Monte"
+                            "pt": "Silk & Spice",
+                            "en": "Silk & Spice"
                         },
                         "info": {
                             "pt": "(copo/garrafa)",
                             "en": "(cup/bottle)"
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "( recomendado pela casa)",
+                            "en": "( recommended by the house)"
                         },
-                        "price": "3.5/13"
+                        "price": "6/22"
                     }
                 ]
             },
@@ -1544,8 +1529,8 @@ const Menu = [
                             "en": "(cup/bottle)"
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "( recomendado pela casa)",
+                            "en": "( recommended by the house)"
                         },
                         "price": "4/16"
                     }
@@ -1571,8 +1556,8 @@ const Menu = [
                             "en": "(cup/bottle)"
                         },
                         "description": {
-                            "pt": "",
-                            "en": ""
+                            "pt": "( recomendado pela casa)",
+                            "en": "( recommended by the house)"
                         },
                         "price": "4/16"
                     }
@@ -2097,21 +2082,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Nao",
-                            "en": "Nao"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(laranja, vagem de baunilha)",
-                            "en": "(orange, vanilla pod)"
-                        },
-                        "price": "11"
-                    },
-                    {
-                        "name": {
                             "pt": "Beefeater 24",
                             "en": "Beefeater 24"
                         },
@@ -2424,6 +2394,21 @@ const Menu = [
                             "en": "(Rosemary, Cinnamon)"
                         },
                         "price": "13"
+                    },
+                    {
+                        "name": {
+                            "pt": "Caputa",
+                            "en": "Caputa"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Alecrim,Lima)-Recomendado pela casa",
+                            "en": "(Rosemary,Lime)-Recommended by the House"
+                        },
+                        "price": "8.5"
                     }
                 ]
             },
@@ -2843,6 +2828,21 @@ const Menu = [
                         "name": {
                             "pt": "Amarguinha Cream",
                             "en": "Amarguinha Cream"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "7"
+                    },
+                    {
+                        "name": {
+                            "pt": "Maciera Cream Caramelo Salgado",
+                            "en": "Macieira Cream Caramelo Salgado"
                         },
                         "info": {
                             "pt": "",
@@ -3819,7 +3819,7 @@ const Menu = [
                     "en": "MEAT"
                 },
                 "subSectionInfo": {
-                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 22:30 e aos Domingos às 18:30)",
+                    "pt": "(NOTA: (Informamos que a cozinha de Segunda a Sábado encerra às 01:15 e aos Domingos às 21:30)",
                     "en": "(NOTE: Please be advised that the kitchen closes at 22:30)"
                 },
                 "menu": [
