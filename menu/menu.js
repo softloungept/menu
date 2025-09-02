@@ -530,7 +530,7 @@ const Menu = [
                             "pt": "(café, sumo limão, açúcar)",
                             "en": "(coffee, lemon juice, sugar)"
                         },
-                        "price": 4.5
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -560,7 +560,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "2"
+                        "price": "2.5"
                     },
                     {
                         "name": {
@@ -575,7 +575,7 @@ const Menu = [
                             "pt": "(camomila; cidreira; cidreira-mel; gengibre-limão; lúcia-lima; tília; verde; preto; frutos vermelhos; menta; príncipe; baunilha-caramelo; limão)",
                             "en": "(chamomile; lemon balm; lemon balm-honey; ginger-lemon; lemon verbena; linden; green; black; red fruits; mint; prince; vanilla-caramel; lemon)"
                         },
-                        "price": 2.5
+                        "price": "3"
                     },
                     {
                         "name": {
@@ -621,21 +621,6 @@ const Menu = [
                             "en": "(white chocolate; mint chocolate; caramel chocolate; hazelnut chocolate)"
                         },
                         "price": "5.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Café Com Refeição",
-                            "en": ""
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "1"
                     }
                 ]
             },
@@ -1160,7 +1145,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "34"
+                        "price": "37"
                     },
                     {
                         "name": {
@@ -1274,7 +1259,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "33"
+                        "price": "35"
                     },
                     {
                         "name": {
@@ -1430,7 +1415,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4"
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -1595,7 +1580,7 @@ const Menu = [
                             "pt": "(cachaça, lima, açúcar amarelo)",
                             "en": "(cachaça, lime, brown sugar)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -1610,7 +1595,7 @@ const Menu = [
                             "pt": "(vodka, lima, açúcar amarelo)",
                             "en": "(vodka, lime, brown sugar)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -1625,7 +1610,7 @@ const Menu = [
                             "pt": "(vodka black, lima)",
                             "en": "(vodka black, lime)"
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1640,7 +1625,7 @@ const Menu = [
                             "pt": "(beirão e lima)",
                             "en": "(beirão and lime)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -1655,7 +1640,7 @@ const Menu = [
                             "pt": "(vodka, morango, açúcar amarelo)",
                             "en": "(vodka, strawberry, brown sugar)"
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1670,7 +1655,7 @@ const Menu = [
                             "pt": "(vodka, kiwi, açúcar amarelo)",
                             "en": "(vodka, kiwi, brown sugar)"
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1700,7 +1685,7 @@ const Menu = [
                             "pt": "(rum especial, sumo limão, hortelã, água c/gás, açúcar)",
                             "en": "(special rum, lemon juice, mint, sparkling water, sugar)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1715,7 +1700,7 @@ const Menu = [
                             "pt": "(tequila, cointreau, sumo limão, sal no copo)",
                             "en": "(tequila, cointreau, lemon juice, salt in the glass)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1745,7 +1730,7 @@ const Menu = [
                             "pt": "(tequila, sumo laranja, groselha)",
                             "en": "(tequila, orange juice, blackcurrant)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1775,7 +1760,7 @@ const Menu = [
                             "pt": "(licor de café, vodka, café expresso)",
                             "en": "(coffee liqueur, vodka, espresso)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1820,7 +1805,7 @@ const Menu = [
                             "pt": "(vermute seco, gin London dry)",
                             "en": "(dry vermouth, gin London dry)"
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1835,7 +1820,7 @@ const Menu = [
                             "pt": "(gin, campari, vermute tinto)",
                             "en": "(gin, campari, red vermouth)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1850,7 +1835,7 @@ const Menu = [
                             "pt": "(vodka, cointreau, sumo de arando, sumo de lima)",
                             "en": "(vodka, cointreau, cranberry juice, lime juice)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1865,7 +1850,7 @@ const Menu = [
                             "pt": "(gin, menta, natas)",
                             "en": "(gin, mint, cream)"
                         },
-                        "price": "8"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -1922,7 +1907,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     }
                 ]
             },
@@ -1991,7 +1976,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "15 €/29"
+                        "price": "16 €/30"
                     },
                     {
                         "name": {
@@ -2021,7 +2006,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "19 €/37"
+                        "price": "20 €/38"
                     },
                     {
                         "name": {
@@ -2078,7 +2063,7 @@ const Menu = [
                             "pt": "(bagas de zimbro, limão)",
                             "en": "(juniper berries, lemon)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -2108,7 +2093,7 @@ const Menu = [
                             "pt": "(limão, pau de canela)",
                             "en": "(lemon, cinnamon stick)"
                         },
-                        "price": 6.5
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2303,7 +2288,7 @@ const Menu = [
                             "pt": "(limão, lima)",
                             "en": "(lemon, lime)"
                         },
-                        "price": 8
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -2424,21 +2409,6 @@ const Menu = [
                 "menu": [
                     {
                         "name": {
-                            "pt": "Bacardi",
-                            "en": "Bacardi"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "7"
-                    },
-                    {
-                        "name": {
                             "pt": "Havanna Club 3 anos",
                             "en": "Havanna Club 3 anos"
                         },
@@ -2552,7 +2522,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -2657,7 +2627,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2672,7 +2642,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "6.5"
                     },
                     {
                         "name": {
@@ -2717,7 +2687,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2732,7 +2702,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2747,7 +2717,7 @@ const Menu = [
                             "pt": "(blue/banana/strawberry)",
                             "en": "(blue/banana/strawberry)"
                         },
-                        "price": 6.5
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2762,7 +2732,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 4
+                        "price": "5"
                     },
                     {
                         "name": {
@@ -2777,7 +2747,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2948,7 +2918,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2963,7 +2933,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2978,7 +2948,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2993,7 +2963,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -3662,7 +3632,7 @@ const Menu = [
                             "pt": "(queijos, enchidos, presunto)",
                             "en": "(queijos, enchidos, presunto)"
                         },
-                        "price": "13"
+                        "price": "14.5"
                     },
                     {
                         "name": {
@@ -3677,7 +3647,7 @@ const Menu = [
                             "pt": "(azeitonas, pasta atum, manteiga de alho, pão)",
                             "en": "(olives, tuna spread, garlic butter, bread) "
                         },
-                        "price": 6
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -3708,21 +3678,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "2.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Caracóis",
-                            "en": "Snails"
-                        },
-                        "info": {
-                            "pt": "(época)",
-                            "en": "(season)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "12.5"
                     },
                     {
                         "name": {
@@ -3767,7 +3722,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13"
+                        "price": "14.5"
                     }
                 ]
             },
@@ -3794,7 +3749,7 @@ const Menu = [
                             "pt": "(Espinafres,Broa com farinheira,Batata á Lagareiro)",
                             "en": "(Spinach,Cornbread with Farinheira,Potato)"
                         },
-                        "price": "19.5"
+                        "price": "21.5"
                     },
                     {
                         "name": {
@@ -3809,7 +3764,7 @@ const Menu = [
                             "pt": "Pimentos,Cebola,Batata á Lagareiro)",
                             "en": "Peppers,Onion,Potato)"
                         },
-                        "price": "17.5"
+                        "price": "18.5"
                     }
                 ]
             },
@@ -3941,7 +3896,7 @@ const Menu = [
                             "pt": "(Batata Frita,Arroz)",
                             "en": "(French Fries,Rise)"
                         },
-                        "price": "12.5"
+                        "price": "13.5"
                     }
                 ]
             },
@@ -3998,7 +3953,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "12.5"
+                        "price": "13.5"
                     },
                     {
                         "name": {
@@ -4055,7 +4010,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13.5"
+                        "price": "14.5"
                     }
                 ]
             },
@@ -4082,7 +4037,7 @@ const Menu = [
                             "pt": "(cebola, salsa, queijo, fiambre)",
                             "en": "(with onion, parsley, ham and cheese)"
                         },
-                        "price": "10"
+                        "price": "11.5"
                     },
                     {
                         "name": {
@@ -4097,7 +4052,7 @@ const Menu = [
                             "pt": "(cebola, salsa, queijo, frango)",
                             "en": "(with onion, parsley, cheese and chicken)"
                         },
-                        "price": "12"
+                        "price": "13"
                     },
                     {
                         "name": {
@@ -4112,7 +4067,7 @@ const Menu = [
                             "pt": "(cebola, salsa, queijo, camarão)",
                             "en": "(with onion, parsley, cheese and shrimps)"
                         },
-                        "price": "14.5"
+                        "price": "15"
                     }
                 ]
             },
@@ -4490,7 +4445,7 @@ const Menu = [
                             "pt": "(frango, maionaise, tomate, queijo, manteiga e orégãos)",
                             "en": "(chicken, mayonnaise, tomato, cheese, butter and oregano)"
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -4502,10 +4457,10 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(atum, maionaise, queijo, manteiga e orégãos)",
-                            "en": "(tuna, mayonnaise, cheese, butter and oregano)"
+                            "pt": "(atum, maionaise, queijo, tomate,manteiga e orégãos)",
+                            "en": "(tuna, mayonnaise, cheese,tomato, butter and oregano)"
                         },
-                        "price": "9"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -4520,7 +4475,7 @@ const Menu = [
                             "pt": "(molho pesto, presunto, tomate, queijo, manteiga e orégãos)",
                             "en": "(pesto sauce, prosciutto ham, tomato, cheese, butter and oregano)"
                         },
-                        "price": "9"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -4565,7 +4520,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "9"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -4607,7 +4562,7 @@ const Menu = [
                             "pt": "(frango,molho caesar,alface,tomate cherry,queijo parmesao)",
                             "en": "(chicken,caesar sauce,lettuce,cherry tomato,parmesan cheese)"
                         },
-                        "price": "12.5"
+                        "price": "13.5"
                     },
                     {
                         "name": {
@@ -4622,7 +4577,7 @@ const Menu = [
                             "pt": "(mozzarella de búfala,tomate)",
                             "en": "(buffalo mozarella,tomato)"
                         },
-                        "price": "8.5"
+                        "price": "9.5"
                     },
                     {
                         "name": {
