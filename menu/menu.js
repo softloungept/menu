@@ -29,7 +29,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5"
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -44,7 +44,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -59,7 +59,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -74,7 +74,7 @@ const Menu = [
                             "pt": "(banana, morango, amoras, framboesas, mirtilos)",
                             "en": "(banana, strawberry, blackberries, raspberries, blueberries)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -89,7 +89,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -104,7 +104,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -119,7 +119,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5"
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -134,7 +134,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7'5"
                     },
                     {
                         "name": {
@@ -149,7 +149,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     }
                 ]
             },
@@ -191,7 +191,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -206,7 +206,7 @@ const Menu = [
                             "pt": "(morangos, framboesas, amoras, mirtilos)",
                             "en": "(strawberry, raspberries, blackberries, blueberries)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     }
                 ]
             },
@@ -410,7 +410,7 @@ const Menu = [
                             "pt": "(café com leite condensado)",
                             "en": "(coffee with condensed milk)"
                         },
-                        "price": "2.5"
+                        "price": "3"
                     },
                     {
                         "name": {
@@ -545,7 +545,7 @@ const Menu = [
                             "pt": "(café, whisky irlandês, natas)",
                             "en": "(coffee, Irish whiskey, cream)"
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -575,7 +575,7 @@ const Menu = [
                             "pt": "(camomila; cidreira; cidreira-mel; gengibre-limão; lúcia-lima; tília; verde; preto; frutos vermelhos; menta; príncipe; baunilha-caramelo; limão)",
                             "en": "(chamomile; lemon balm; lemon balm-honey; ginger-lemon; lemon verbena; linden; green; black; red fruits; mint; prince; vanilla-caramel; lemon)"
                         },
-                        "price": "3"
+                        "price": "3.5"
                     },
                     {
                         "name": {
@@ -590,7 +590,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 3.5
+                        "price": "4.5"
                     },
                     {
                         "name": {
@@ -605,7 +605,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5"
+                        "price": "5.5"
                     },
                     {
                         "name": {
@@ -620,7 +620,7 @@ const Menu = [
                             "pt": "(chocolate branco; chocolate menta; chocolate caramelo; chocolate avelã)",
                             "en": "(white chocolate; mint chocolate; caramel chocolate; hazelnut chocolate)"
                         },
-                        "price": "5.5"
+                        "price": "6"
                     }
                 ]
             },
@@ -1001,7 +1001,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5€/19"
+                        "price": "5€/20"
                     },
                     {
                         "name": {
@@ -1073,7 +1073,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5€/19"
+                        "price": "5€/20"
                     },
                     {
                         "name": {
@@ -1160,7 +1160,7 @@ const Menu = [
                             "pt": "( recomendado pela casa)",
                             "en": "( recommended by the house)"
                         },
-                        "price": "6/22"
+                        "price": "6/23"
                     }
                 ]
             },
@@ -1187,7 +1187,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "3.5 €/13"
+                        "price": "4 €/15"
                     },
                     {
                         "name": {
@@ -1217,7 +1217,7 @@ const Menu = [
                             "pt": "( recomendado pela casa)",
                             "en": "( recommended by the house)"
                         },
-                        "price": "6/22"
+                        "price": "6/23"
                     }
                 ]
             },
@@ -1274,7 +1274,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "4.5€/17"
+                        "price": "4.5€/18"
                     }
                 ]
             },
@@ -1301,7 +1301,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "23"
+                        "price": "24"
                     },
                     {
                         "name": {
@@ -1316,7 +1316,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "15"
+                        "price": "16"
                     },
                     {
                         "name": {
@@ -1331,7 +1331,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "17"
+                        "price": "18"
                     },
                     {
                         "name": {
@@ -1388,7 +1388,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16"
+                        "price": "18"
                     }
                 ]
             },
@@ -1430,7 +1430,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1445,7 +1445,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1460,7 +1460,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "9"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -1475,7 +1475,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13.5"
+                        "price": "14.5"
                     }
                 ]
             },
@@ -1580,7 +1580,7 @@ const Menu = [
                             "pt": "(cachaça, lima, açúcar amarelo)",
                             "en": "(cachaça, lime, brown sugar)"
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1595,7 +1595,7 @@ const Menu = [
                             "pt": "(vodka, lima, açúcar amarelo)",
                             "en": "(vodka, lime, brown sugar)"
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1610,7 +1610,7 @@ const Menu = [
                             "pt": "(vodka black, lima)",
                             "en": "(vodka black, lime)"
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -1625,7 +1625,7 @@ const Menu = [
                             "pt": "(beirão e lima)",
                             "en": "(beirão and lime)"
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -1640,7 +1640,7 @@ const Menu = [
                             "pt": "(vodka, morango, açúcar amarelo)",
                             "en": "(vodka, strawberry, brown sugar)"
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -1655,7 +1655,7 @@ const Menu = [
                             "pt": "(vodka, kiwi, açúcar amarelo)",
                             "en": "(vodka, kiwi, brown sugar)"
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -1670,7 +1670,7 @@ const Menu = [
                             "pt": "(rum, coca-cola) ",
                             "en": "(rum, coca-cola) "
                         },
-                        "price": "8"
+                        "price": "8.5"
                     },
                     {
                         "name": {
@@ -1892,7 +1892,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "5"
+                        "price": "6"
                     },
                     {
                         "name": {
@@ -1907,7 +1907,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     }
                 ]
             },
@@ -2537,7 +2537,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 6
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2552,7 +2552,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2567,7 +2567,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2582,7 +2582,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2612,7 +2612,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 9
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -2657,7 +2657,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2672,7 +2672,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2687,7 +2687,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2702,7 +2702,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -2717,7 +2717,7 @@ const Menu = [
                             "pt": "(blue/banana/strawberry)",
                             "en": "(blue/banana/strawberry)"
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2762,7 +2762,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2807,7 +2807,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2822,7 +2822,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     }
                 ]
             },
@@ -2918,7 +2918,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2933,7 +2933,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2948,7 +2948,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -2963,7 +2963,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "9"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -2978,7 +2978,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "12"
+                        "price": "13"
                     },
                     {
                         "name": {
@@ -2993,7 +2993,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 13
+                        "price": "14"
                     },
                     {
                         "name": {
@@ -3008,7 +3008,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "8"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -3092,7 +3092,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -3107,7 +3107,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -3122,7 +3122,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -3137,7 +3137,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -3152,7 +3152,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "7.5"
                     },
                     {
                         "name": {
@@ -3227,7 +3227,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "10"
+                        "price": "11"
                     },
                     {
                         "name": {
@@ -3512,7 +3512,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 13.5
+                        "price": "14.5"
                     },
                     {
                         "name": {
@@ -3572,7 +3572,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7.5"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -3617,7 +3617,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -3749,7 +3749,7 @@ const Menu = [
                             "pt": "(Espinafres,Broa com farinheira,Batata á Lagareiro)",
                             "en": "(Spinach,Cornbread with Farinheira,Potato)"
                         },
-                        "price": "21.5"
+                        "price": "23.5"
                     },
                     {
                         "name": {
@@ -3764,7 +3764,7 @@ const Menu = [
                             "pt": "Pimentos,Cebola,Batata á Lagareiro)",
                             "en": "Peppers,Onion,Potato)"
                         },
-                        "price": "18.5"
+                        "price": "19.5"
                     }
                 ]
             },
@@ -3821,7 +3821,7 @@ const Menu = [
                             "pt": "(arroz, batata frita, feijão preto, farófia)",
                             "en": "(rice, french fries, black beans, farófia)"
                         },
-                        "price": "17.5"
+                        "price": "18.5"
                     },
                     {
                         "name": {
@@ -3938,7 +3938,7 @@ const Menu = [
                             "pt": "(espargos, tomate cherry, mozarela, bacon, presunto)",
                             "en": "(asparagus, cherry tomato, mozzarella, bacon, prosciutto ham)"
                         },
-                        "price": "14.5"
+                        "price": "15.5"
                     },
                     {
                         "name": {
@@ -3953,7 +3953,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "13.5"
+                        "price": "14.5"
                     },
                     {
                         "name": {
