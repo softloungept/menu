@@ -3723,6 +3723,51 @@ const Menu = [
                             "en": ""
                         },
                         "price": "14.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Tabua Salgados",
+                            "en": "Savory Board"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "10.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Bolinhas Alheira",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "8"
+                    },
+                    {
+                        "name": {
+                            "pt": "Pica Pau lombo",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "21"
                     }
                 ]
             },
@@ -3851,7 +3896,7 @@ const Menu = [
                             "pt": "(Batatas fritas,legumes salteados,Molho de Natas)",
                             "en": "(French fries,sautéed vegetables,cream sauce)"
                         },
-                        "price": "21.50"
+                        "price": "23.50"
                     },
                     {
                         "name": {
@@ -3881,7 +3926,7 @@ const Menu = [
                             "pt": "(Batatas fritas,legumes salteados)",
                             "en": "(French fries,sautéed vegetables)"
                         },
-                        "price": "21.5"
+                        "price": "23.5"
                     },
                     {
                         "name": {
@@ -3897,6 +3942,36 @@ const Menu = [
                             "en": "(French Fries,Rise)"
                         },
                         "price": "13.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "T-Bone ",
+                            "en": "T-Bone"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Batata doce,esparregado,beterraba)",
+                            "en": "/Sweet potato,spinach spread,beetroot)"
+                        },
+                        "price": "39.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Entrecôte",
+                            "en": "Entrecôte"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Batata doce,esparregado,beterraba)",
+                            "en": "Sweet potato,spinach spread,beetroot)"
+                        },
+                        "price": ""
                     }
                 ]
             },
