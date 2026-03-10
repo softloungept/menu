@@ -3971,6 +3971,21 @@ const Menu = [
                             "pt": "(Batata doce,esparregado,beterraba)",
                             "en": "Sweet potato,spinach spread,beetroot)"
                         },
+                        "price": "25"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
                         "price": ""
                     }
                 ]
