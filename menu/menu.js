@@ -3768,6 +3768,51 @@ const Menu = [
                             "en": ""
                         },
                         "price": "21"
+                    },
+                    {
+                        "name": {
+                            "pt": "Croquetes",
+                            "en": "Croquettes"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "6.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Ovos Rotos",
+                            "en": "Spanish Broken Eggs"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "12"
+                    },
+                    {
+                        "name": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": ""
                     }
                 ]
             },
@@ -4110,8 +4155,8 @@ const Menu = [
                     "en": "OMELETTE"
                 },
                 "subSectionInfo": {
-                    "pt": "(Acompanhamento: batata frita, tomate)",
-                    "en": "(Side dish: french fries and tomato)"
+                    "pt": "(Acompanhamento: batata frita, salada)",
+                    "en": "(Side dish: french fries and mix salad)"
                 },
                 "menu": [
                     {
