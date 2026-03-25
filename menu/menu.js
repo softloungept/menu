@@ -4475,8 +4475,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita,Molho de Ervas)",
-                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herbs Sauce)"
+                            "pt": "(Queijo Cheddar,Bacon;Alface ,Cebola,Tomate.Batata Frita,Molho de Ervas)",
+                            "en": "(Cheese Cheddar,Bacon,Lettuce ,Onion,Tomato.French Fries,Herbs Sauce)"
                         },
                         "price": "13"
                     },
