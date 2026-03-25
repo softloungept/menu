@@ -4557,7 +4557,7 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Prego de Picanha Simples/Dupla",
+                            "pt": "Prego de Picanha Simples/Duplo",
                             "en": "Picanha Sandwich Single/Double"
                         },
                         "info": {
