@@ -3742,7 +3742,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Bolinhas Alheira",
-                            "en": ""
+                            "en": "Crispy Alheira Balls"
                         },
                         "info": {
                             "pt": "",
@@ -3757,7 +3757,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Pica Pau lombo",
-                            "en": ""
+                            "en": "Tenderloin Steak Bites"
                         },
                         "info": {
                             "pt": "",
@@ -3798,21 +3798,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "12"
-                    },
-                    {
-                        "name": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": ""
                     }
                 ]
             },
@@ -4017,21 +4002,6 @@ const Menu = [
                             "en": "Sweet potato,spinach spread,beetroot)"
                         },
                         "price": "25"
-                    },
-                    {
-                        "name": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": ""
                     }
                 ]
             },
@@ -4290,6 +4260,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": 1.5
+                    },
+                    {
+                        "name": {
+                            "pt": "Batata frita palito Doce",
+                            "en": "Sweet potato fries"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "5"
                     }
                 ]
             },
@@ -4362,6 +4347,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "2"
+                    },
+                    {
+                        "name": {
+                            "pt": "Tiramisú",
+                            "en": "Tiramisú"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "( Com STEVIA & ERYTHRITOL)",
+                            "en": "( Com STEVIA & ERYTHRITOL)"
+                        },
+                        "price": "6"
                     }
                 ]
             },
@@ -4528,7 +4528,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Prego do lombo",
-                            "en": "Sirloin Steak on Bread"
+                            "en": "Tenderloin Steak on Bread"
                         },
                         "info": {
                             "pt": "",
@@ -4543,7 +4543,7 @@ const Menu = [
                     {
                         "name": {
                             "pt": "Meio Prego do Lombo",
-                            "en": ""
+                            "en": "Half Tenderloin Steak Sandwich"
                         },
                         "info": {
                             "pt": "",
@@ -4554,6 +4554,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "8"
+                    },
+                    {
+                        "name": {
+                            "pt": "Prego de Picanha Simples/Dupla",
+                            "en": "Picanha Sandwich Single/Double"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "(Pão de hambúrguer,ovo estrelado,batata frita)",
+                            "en": "(Burguer bun,fried egg,french fries)"
+                        },
+                        "price": "12/20"
                     }
                 ]
             },
@@ -4580,7 +4595,7 @@ const Menu = [
                             "pt": "(frango, maionaise, tomate, queijo, manteiga e orégãos)",
                             "en": "(chicken, mayonnaise, tomato, cheese, butter and oregano)"
                         },
-                        "price": "9.5"
+                        "price": "10"
                     },
                     {
                         "name": {
@@ -4595,7 +4610,7 @@ const Menu = [
                             "pt": "(atum, maionaise, queijo, tomate,manteiga e orégãos)",
                             "en": "(tuna, mayonnaise, cheese,tomato, butter and oregano)"
                         },
-                        "price": "10"
+                        "price": "11.5"
                     },
                     {
                         "name": {
