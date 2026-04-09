@@ -1670,7 +1670,7 @@ const Menu = [
                             "pt": "(rum, coca-cola) ",
                             "en": "(rum, coca-cola) "
                         },
-                        "price": "8.5"
+                        "price": "9"
                     },
                     {
                         "name": {
@@ -2258,7 +2258,7 @@ const Menu = [
                             "pt": "(laranja, canela)",
                             "en": "(orange, cinnamon)"
                         },
-                        "price": "8.5"
+                        "price": "9.5"
                     },
                     {
                         "name": {
@@ -2420,7 +2420,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "7"
+                        "price": "8"
                     },
                     {
                         "name": {
@@ -2642,7 +2642,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -2823,6 +2823,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "8"
+                    },
+                    {
+                        "name": {
+                            "pt": "Ricard",
+                            "en": "Ricard"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "9.5"
                     }
                 ]
             },
@@ -3824,7 +3839,7 @@ const Menu = [
                             "pt": "(Espinafres,Broa com farinheira,Batata á Lagareiro)",
                             "en": "(Spinach,Cornbread with Farinheira,Potato)"
                         },
-                        "price": "23.5"
+                        "price": "26.5"
                     },
                     {
                         "name": {
@@ -3839,7 +3854,7 @@ const Menu = [
                             "pt": "Pimentos,Cebola,Batata á Lagareiro)",
                             "en": "Peppers,Onion,Potato)"
                         },
-                        "price": "19.5"
+                        "price": "23.5"
                     }
                 ]
             },
@@ -4479,21 +4494,6 @@ const Menu = [
                             "en": "(Cheese Cheddar,Bacon,Lettuce ,Onion,Tomato.French Fries,Herbs Sauce)"
                         },
                         "price": "13"
-                    },
-                    {
-                        "name": {
-                            "pt": "Hambúrguer de Frango",
-                            "en": "Chicken Burger"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(Queijo Cheddar,Bacon;Alface iceberg,Cebola,Tomate.Batata Frita,Molho de Ervas)",
-                            "en": "(Cheese Cheddar,Bacon,Lettuce Iceberg,Onion,Tomato.French Fries,Herbs Sauce)"
-                        },
-                        "price": "12"
                     },
                     {
                         "name": {
