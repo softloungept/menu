@@ -743,7 +743,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 1.5
+                        "price": "1.8"
                     },
                     {
                         "name": {
@@ -758,7 +758,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "2.5"
+                        "price": "2.8"
                     },
                     {
                         "name": {
@@ -773,7 +773,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 3.5
+                        "price": "3.8"
                     }
                 ]
             },
@@ -1866,6 +1866,21 @@ const Menu = [
                             "en": "(vodka, tequila, rum, triple sec, gin, lemon juice, cola)"
                         },
                         "price": "11"
+                    },
+                    {
+                        "name": {
+                            "pt": "Moscow Mule",
+                            "en": "Moscow Mule"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "10"
                     }
                 ]
             },
@@ -3813,6 +3828,21 @@ const Menu = [
                             "en": ""
                         },
                         "price": "12"
+                    },
+                    {
+                        "name": {
+                            "pt": "Caracois",
+                            "en": "Snails"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "12.5"
                     }
                 ]
             },
@@ -3956,7 +3986,7 @@ const Menu = [
                             "pt": "(Batatas fritas ,Esparregado)",
                             "en": "(French fries,spinach spread)"
                         },
-                        "price": "19.50"
+                        "price": "21.50"
                     },
                     {
                         "name": {
