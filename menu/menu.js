@@ -233,7 +233,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "2.7"
                     },
                     {
                         "name": {
@@ -248,7 +248,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "2.7"
                     },
                     {
                         "name": {
@@ -263,7 +263,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "2.8"
                     },
                     {
                         "name": {
@@ -278,7 +278,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "2.8"
                     },
                     {
                         "name": {
@@ -293,22 +293,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Sumol",
-                            "en": "Sumol"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(ananás; laranja)",
-                            "en": "(pineapple; orange)"
-                        },
-                        "price": 2.5
+                        "price": "2.8"
                     },
                     {
                         "name": {
@@ -338,7 +323,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": 2.5
+                        "price": "2.8"
                     },
                     {
                         "name": {
@@ -353,22 +338,7 @@ const Menu = [
                             "pt": "(limão; pêssego; manga)",
                             "en": "(lemon; peach; mango)"
                         },
-                        "price": 2.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Néctar Compal",
-                            "en": "Néctar Compal"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(maçã; pera; frutos vermelhos; manga-laranja, pêssego)",
-                            "en": "(apple; pear; red berries; mango-orange, peach)"
-                        },
-                        "price": "2.5"
+                        "price": "2.8"
                     }
                 ]
             },
@@ -1174,21 +1144,6 @@ const Menu = [
                     "en": ""
                 },
                 "menu": [
-                    {
-                        "name": {
-                            "pt": "Vinha das lebres",
-                            "en": "Vinha das lebres"
-                        },
-                        "info": {
-                            "pt": "(copo/garrafa)",
-                            "en": "(cup/bottle)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "4 €/15"
-                    },
                     {
                         "name": {
                             "pt": "Cartuxa",
@@ -2274,21 +2229,6 @@ const Menu = [
                             "en": "(orange, cinnamon)"
                         },
                         "price": "9.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Jodhpur Reserve",
-                            "en": "Jodhpur Reserve"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(café, laranja)",
-                            "en": "(coffee, orange)"
-                        },
-                        "price": 14.5
                     },
                     {
                         "name": {
@@ -4017,21 +3957,6 @@ const Menu = [
                             "en": "(French Fries,Rise)"
                         },
                         "price": "13.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "T-Bone ",
-                            "en": "T-Bone"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "(Batata doce,esparregado,beterraba)",
-                            "en": "/Sweet potato,spinach spread,beetroot)"
-                        },
-                        "price": "39.5"
                     },
                     {
                         "name": {
