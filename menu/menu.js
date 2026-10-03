@@ -674,8 +674,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(limão; groselha; pepino)",
-                            "en": "(lemon; currant; cucumber)"
+                            "pt": "(limão; pepino)",
+                            "en": "(lemon; cucumber)"
                         },
                         "price": 2.5
                     }
@@ -780,21 +780,6 @@ const Menu = [
                         "info": {
                             "pt": "(0.33L)",
                             "en": "(0.33L)"
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": 2.5
-                    },
-                    {
-                        "name": {
-                            "pt": "Sagres Radler",
-                            "en": "Sagres Radler"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
                         },
                         "description": {
                             "pt": "",
@@ -934,6 +919,21 @@ const Menu = [
                         "description": {
                             "pt": "",
                             "en": "(Dark Beer)"
+                        },
+                        "price": "2.5"
+                    },
+                    {
+                        "name": {
+                            "pt": "Super Bock",
+                            "en": "Super Bock"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
                         },
                         "price": "2.5"
                     }
@@ -1500,6 +1500,21 @@ const Menu = [
                             "en": "( recommended by the house)"
                         },
                         "price": "4/16"
+                    },
+                    {
+                        "name": {
+                            "pt": "Cabo da Roca",
+                            "en": "Cabo da Roca"
+                        },
+                        "info": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "18"
                     }
                 ]
             }
@@ -2270,8 +2285,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(limão, vagem de baunilha)",
-                            "en": "(lemon, vanilla pod)"
+                            "pt": "(lima, alecrim)",
+                            "en": "(lime, rosemary)"
                         },
                         "price": 11.5
                     },
@@ -3490,7 +3505,7 @@ const Menu = [
                             "en": "'Bulhão pato' clams"
                         },
                         "info": {
-                            "pt": "ida",
+                            "pt": "",
                             "en": ""
                         },
                         "description": {
@@ -3696,21 +3711,6 @@ const Menu = [
                     },
                     {
                         "name": {
-                            "pt": "Tabua Salgados",
-                            "en": "Savory Board"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "10.5"
-                    },
-                    {
-                        "name": {
                             "pt": "Bolinhas Alheira",
                             "en": "Crispy Alheira Balls"
                         },
@@ -3752,7 +3752,7 @@ const Menu = [
                             "pt": "",
                             "en": ""
                         },
-                        "price": "6.5"
+                        "price": "7"
                     },
                     {
                         "name": {
@@ -3768,21 +3768,6 @@ const Menu = [
                             "en": ""
                         },
                         "price": "12"
-                    },
-                    {
-                        "name": {
-                            "pt": "Caracois",
-                            "en": "Snails"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "price": "13.5"
                     }
                 ]
             },
