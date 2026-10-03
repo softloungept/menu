@@ -1954,14 +1954,14 @@ const Menu = [
                             "en": "Tinto/branca"
                         },
                         "info": {
-                            "pt": "(1L/2L)",
-                            "en": "(1L/2L)"
+                            "pt": "(1L/1.8L)",
+                            "en": "(1L/1.8L)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "16 €/30"
+                        "price": "17 €/30"
                     },
                     {
                         "name": {
@@ -1969,14 +1969,14 @@ const Menu = [
                             "en": "Cidra com frutos vermelhos"
                         },
                         "info": {
-                            "pt": "(1L/2L)",
-                            "en": "(1L/2L)"
+                            "pt": "(1L/1.8L)",
+                            "en": "(1L/1.8L)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "17 €/33"
+                        "price": "18 €/33"
                     },
                     {
                         "name": {
@@ -1984,14 +1984,14 @@ const Menu = [
                             "en": "Espumante com frutos vermelhos"
                         },
                         "info": {
-                            "pt": "(1L/2L)",
-                            "en": "(1L/2L)"
+                            "pt": "(1L/1.8L)",
+                            "en": "(1L/1.8L)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "20 €/38"
+                        "price": "21 €/38"
                     },
                     {
                         "name": {
@@ -1999,14 +1999,14 @@ const Menu = [
                             "en": "Espumante Asti Gancia com frutos vermelhos"
                         },
                         "info": {
-                            "pt": "(1L/2L)",
-                            "en": "(1L/2L)"
+                            "pt": "(1L/1.8L)",
+                            "en": "(1L/1.8L)"
                         },
                         "description": {
                             "pt": "",
                             "en": ""
                         },
-                        "price": "26 €/49"
+                        "price": "27 €/49"
                     }
                 ]
             },
