@@ -3810,21 +3810,6 @@ const Menu = [
                             "en": "(Spinach,Cornbread with Farinheira,Potato)"
                         },
                         "price": "26.5"
-                    },
-                    {
-                        "name": {
-                            "pt": "Lulas",
-                            "en": "Squid"
-                        },
-                        "info": {
-                            "pt": "",
-                            "en": ""
-                        },
-                        "description": {
-                            "pt": "Pimentos,Cebola,Batata á Lagareiro)",
-                            "en": "Peppers,Onion,Potato)"
-                        },
-                        "price": "23.5"
                     }
                 ]
             },
@@ -3968,8 +3953,8 @@ const Menu = [
                             "en": ""
                         },
                         "description": {
-                            "pt": "(Batata doce,esparregado,beterraba)",
-                            "en": "Sweet potato,spinach spread,beetroot)"
+                            "pt": "(Batata doce,esparregado,tomate cherry)",
+                            "en": "Sweet potato,spinach spread,)"
                         },
                         "price": "25"
                     }
